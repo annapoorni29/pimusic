@@ -1,0 +1,5 @@
+Find duplicates  
+fdupes -r . > dupes.txt
+
+Remove duplicates
+while IFS= read -r line; do rm "$line"; done < ./dupes.txt
