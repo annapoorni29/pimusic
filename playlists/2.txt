@@ -1,7 +1,5 @@
-Rudram.mp3
-Chamakam.mp3
-Shivashtakam.mp3
-MahishasuramardiniStotram.mp3
-skandha_shasti_kavasam.mp3
-DhanvantriMantraTSR.mp3
-VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/SriLakshmiNarasimhaTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/skandha_shasti_kavasam.mp3
+/home/pi/Music/pimusic/files/Carnatic/HanumanChalisaa.mp3
+/home/pi/Music/pimusic/files/Carnatic/LalithaSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3

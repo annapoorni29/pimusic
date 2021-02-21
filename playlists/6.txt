@@ -1,5 +1,4 @@
-BhaagyadaLakshmiBaaramma.mp3
-DhanvantriMantraTSR.mp3
-MahalakshmiAshtakam.mp3
-KuberaandLakshmi.mp3
-VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/AnnapoornaStotram.mp3
+/home/pi/Music/pimusic/files/Carnatic/DhanvantriMantraTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/HanumanChalisaa.mp3
+/home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3

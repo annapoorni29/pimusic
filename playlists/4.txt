@@ -1,5 +1,8 @@
-DhanvantriMantraTSR.mp3
-HayagreevaSthothram.mp3
-VishnuAshtakam.mp3
-VaishnavoJanatho.wma
-VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/DhanvantriMantraTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/HanumanChalisaa.mp3
+/home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/GuruvaraBanthamma.mp3
+/home/pi/Music/pimusic/files/Carnatic/NeenuNaanu.mp3
+/home/pi/Music/pimusic/files/Carnatic/Balakanagi.mp3
+/home/pi/Music/pimusic/files/Carnatic/SriRaghavendraEnniri.mp3
+/home/pi/Music/pimusic/files/Carnatic/SriRaghavendrastotram.mp3

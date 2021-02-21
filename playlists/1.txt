@@ -1,5 +1,5 @@
-KeshavaNama.mp3
-CarnaticFusion/08_Krishnashtakam.mp3
-CarnaticFusion/Suryashtakam.mp3
-DhanvantriMantraTSR.mp3
-VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/RUDRAM_CHAMAKAM.mp3
+/home/pi/Music/pimusic/files/Carnatic/Shivashtakam.mp3
+/home/pi/Music/pimusic/files/Carnatic/MahishasuramardiniStotram.mp3
+/home/pi/Music/pimusic/files/Carnatic/DhanvantriMantraTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3

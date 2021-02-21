@@ -1,4 +1,4 @@
-VishnuSahasranamamTSR.mp3
-AdityaHrudayam.mp3
-AnnapoornaStotram.mp3
-DhanvantriMantraTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/AdityaHrudayam.mp3
+/home/pi/Music/pimusic/files/Carnatic/AnnapoornaStotram.mp3
+/home/pi/Music/pimusic/files/Carnatic/DhanvantriMantraTSR.mp3

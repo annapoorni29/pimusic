@@ -1,4 +1,5 @@
 #!/bin/bash 
 
 killall -9 mplayer
-mplayer -shuffle -playlist /home/pi/Music/pimusic/playlists/evening.txt
+DOW=$(date +%u)
+mplayer -shuffle -playlist /home/pi/Music/pimusic/playlists/$DOW.txt

@@ -1,10 +1,6 @@
-AnnapoornaStotram.mp3
-DhanvantriMantraTSR.mp3
-HanumanChalisaa.mp3
-LalithaSahasranamamTSR.mp3
-MahalakshmiAshtakam.mp3
-MahishasuramardiniStotram.mp3
-PayojiMaineMisraPahadi.wma
-skandha_shasti_kavasam.mp3
-VaishnavoJanatho.wma
-VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/KeshavaNama.mp3
+/home/pi/Music/pimusic/files/Carnatic/08_Krishnashtakam.mp3
+/home/pi/Music/pimusic/files/Carnatic/Suryashtakam.mp3
+/home/pi/Music/pimusic/files/Carnatic/DhanvantriMantraTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/AnnapoornaStotram.mp3

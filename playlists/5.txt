@@ -1,4 +1,4 @@
-GuruvaaraBanthamma.mp3
-DhanvantriMantraTSR.mp3
-HanumanChalisaa.mp3
-VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/DhanvantriMantraTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/BhagyadhaMS.mp3
+/home/pi/Music/pimusic/files/Carnatic/MahalakshmiAshtakam.mp3
+/home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3
