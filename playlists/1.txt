@@ -1,5 +1,5 @@
 KeshavaNama.mp3
-Krishnashtakam.mp3
-Suryashtakam.mp3
+CarnaticFusion/08_Krishnashtakam.mp3
+CarnaticFusion/Suryashtakam.mp3
 DhanvantriMantraTSR.mp3
 VishnuSahasranamamTSR.mp3
