@@ -2,3 +2,4 @@
 /home/pi/Music/pimusic/files/Carnatic/DhanvantriMantraTSR.mp3
 /home/pi/Music/pimusic/files/Carnatic/HanumanChalisaa.mp3
 /home/pi/Music/pimusic/files/Carnatic/VishnuSahasranamamTSR.mp3
+/home/pi/Music/pimusic/files/Carnatic/Guruvaayoorappan.mp3
