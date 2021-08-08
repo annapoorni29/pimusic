@@ -5,6 +5,6 @@ if [[ `id -nu` != "pi" ]];then
    exit 1
 fi
 
-mopidy
+mopidy &
 
 echo "$SCRIPT_NAME: COMPLETELY FINISHED" 
