@@ -18,6 +18,16 @@ def stop():
     x = requests.post(post_url, data = json_data, headers=headers)
 
 
+def set_repeat_mode():
+    data = {}
+    data["method"] = "core.tracklist.set_repeat";
+    data["jsonrpc"] = "2.0";
+    data["id"] = 1;
+    data["value"] = False;
+    json_data = json.dumps(data)
+    x = requests.post(post_url, data = json_data, headers=headers)
+
+
 def get_tracks():
     data = {}
     data["method"] = "core.tracklist.get_tl_tracks";
@@ -132,4 +142,5 @@ if __name__ == "__main__":
     #uris = get_tracks()
     first_track = add_tracks(uris)
     tlid = get_tlid(first_track)
-    play_first_item_in_queue(tlid);
+    set_repeat_mode()
+    play_first_item_in_queue(tlid)
