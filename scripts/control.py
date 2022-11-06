@@ -6,7 +6,7 @@ import sys
 import time
 import datetime
 
-post_url = 'http://172.30.1.21:6680/mopidy/rpc';
+post_url = 'http://172.30.1.7:6680/mopidy/rpc';
 headers = {'Content-type': 'application/json'}
 
 def stop():
