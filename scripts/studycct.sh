@@ -37,7 +37,7 @@ while true; do
     end_line=$(echo "$blocks" | sed -n "${next_idx}p")
     
     if [ -z "$end_line" ]; then
-        block=$(sed -n "${start_line},$ p" "$INPUT_FILE")
+        block=$(sed -n "${start_line},\$p" "$INPUT_FILE")
     else
         block=$(sed -n "${start_line},$((end_line - 1))p" "$INPUT_FILE")
     fi
