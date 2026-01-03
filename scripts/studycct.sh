@@ -31,6 +31,10 @@ opt_c=$(echo "$record" | awk -F',' '{print $4}' | tr -d '"')
 opt_d=$(echo "$record" | awk -F',' '{print $5}' | tr -d '"')
 correct_letter=$(echo "$record" | awk -F',' '{print $6}' | tr -d '"')
 
+# Announcement
+say "Citizen Quiz Time"
+sleep 1
+
 # Speak question
 say "Question: $question"
 sleep 1
