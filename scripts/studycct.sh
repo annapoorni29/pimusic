@@ -18,9 +18,9 @@ utter() {
     say "$1"
 }
 
-# Pre-process the file to find where each numbered question starts
-blocks=$(grep -n "^[0-9]\+\." "$INPUT_FILE" | cut -d: -f1)
-total_questions=$(echo "$blocks" | wc -l)
+# Parse CSV and extract questions
+# Skip header and extract total number of questions
+total_questions=$(tail -n +2 "$INPUT_FILE" | wc -l)
 
 clear
 echo "Starting Hands-Free Study Session..."
@@ -28,42 +28,35 @@ echo "Found $total_questions questions. Press Ctrl+C to stop."
 say "Starting your citizenship study session."
 
 while true; do
-    # Pick a random question index
+    # Pick a random question index (1-based)
     target_idx=$(( (RANDOM % total_questions) + 1 ))
-    start_line=$(echo "$blocks" | sed -n "${target_idx}p")
     
-    # Define the end of the question block
-    next_idx=$((target_idx + 1))
-    end_line=$(echo "$blocks" | sed -n "${next_idx}p")
+    # Extract the specific line (skip header, so add 1)
+    line_num=$((target_idx + 1))
+    record=$(sed -n "${line_num}p" "$INPUT_FILE")
     
-    if [ -z "$end_line" ]; then
-        block=$(sed -n "${start_line},\$p" "$INPUT_FILE")
-    else
-        block=$(sed -n "${start_line},$((end_line - 1))p" "$INPUT_FILE")
-    fi
-
-    # 1. Parse Question (Line 1)
-    question=$(echo "$block" | sed -n '1p')
-    
-    # 2. Parse Options and identify the correct one
-    # We clean the text to remove the markers so the voice doesn't spoil it early
-    options=$(echo "$block" | tail -n +2 | grep -v "^$")
-    correct_answer=$(echo "$block" | grep -Ei "\(correct answer\)|\(you got it right\)" | sed 's/(.*)//g' | xargs)
+    # Parse CSV fields using awk
+    # Fields: Question,Option A,Option B,Option C,Option D,Correct Answer
+    question=$(echo "$record" | awk -F',' '{print $1}' | tr -d '"')
+    opt_a=$(echo "$record" | awk -F',' '{print $2}' | tr -d '"')
+    opt_b=$(echo "$record" | awk -F',' '{print $3}' | tr -d '"')
+    opt_c=$(echo "$record" | awk -F',' '{print $4}' | tr -d '"')
+    opt_d=$(echo "$record" | awk -F',' '{print $5}' | tr -d '"')
+    correct_letter=$(echo "$record" | awk -F',' '{print $6}' | tr -d '"')
 
     # UTTERANCE PHASE
     echo "------------------------------------------"
     utter "Question: $question"
     sleep 1
 
-    count=1
-    while read -r opt; do
-        # Remove markers for the options reading phase
-        clean_opt=$(echo "$opt" | sed 's/(.*)//g' | xargs)
-        letter=$(printf "\x$(printf %x $((64 + count)))")
-        utter "Option $letter: $clean_opt"
-        count=$((count + 1))
-        [ $count -gt 4 ] && break # Ensure we only read 4 options
-    done <<< "$options"
+    # Read options
+    utter "Option A: $opt_a"
+    sleep 0.5
+    utter "Option B: $opt_b"
+    sleep 0.5
+    utter "Option C: $opt_c"
+    sleep 0.5
+    utter "Option D: $opt_d"
 
     # TIMER PHASE
     echo -ne "\nThinking time: "
@@ -74,11 +67,7 @@ while true; do
     echo -e "\n"
 
     # REVEAL PHASE
-    if [ -n "$correct_answer" ]; then
-        utter "The correct answer is: $correct_answer"
-    else
-        utter "Review the text for this answer."
-    fi
+    utter "The correct answer is: $correct_letter"
 
     sleep 4 # Brief pause before the next random question
 done
