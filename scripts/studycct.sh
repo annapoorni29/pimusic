@@ -4,9 +4,12 @@
 INPUT_FILE="citizen.txt"
 TIMER=10
 
-# Function to speak using Festival
+# Function to speak using Festival (use CMU voice + SayText)
 say() {
-    echo "$1" | festival --tts
+    local msg="$1"
+    local msg_escaped
+    msg_escaped=$(printf '%s' "$msg" | sed 's/\\/\\\\/g; s/"/\\"/g')
+    echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$msg_escaped\")" | festival
 }
 
 # Function to print and speak
