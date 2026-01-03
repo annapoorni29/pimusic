@@ -9,7 +9,7 @@ say() {
     local msg="$1"
     local msg_escaped
     msg_escaped=$(printf '%s' "$msg" | sed 's/\\/\\\\/g; s/"/\\"/g')
-    echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$msg_escaped\")" | festival
+    echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$msg_escaped\")" | festival --interactive
 }
 
 # Function to print and speak
