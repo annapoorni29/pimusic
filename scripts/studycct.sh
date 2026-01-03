@@ -7,7 +7,9 @@ TIMER=10
 # Function to speak using Festival (use CMU voice + SayText)
 say() {
     local msg="$1"
-    echo "(voice_cmu_us_slt_arctic_hts) (set! *duration_stretch* 1.2) (SayText \"$msg\")" | festival
+    local cmd="(voice_cmu_us_slt_arctic_hts) (set! *duration_stretch* 1.2) (SayText \"$msg\")"
+    echo "$ echo '$cmd' | festival"
+    echo "$cmd" | festival
 }
 
 # Parse CSV and extract questions
