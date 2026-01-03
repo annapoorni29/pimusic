@@ -4,12 +4,6 @@
 INPUT_FILE="citizen.txt"
 TIMER=10
 
-# Check if Festival is installed
-if ! command -v festival &> /dev/null; then
-    echo "Festival is not installed. Install it with: sudo apt-get install festival"
-    exit 1
-fi
-
 # Function to speak using Festival
 say() {
     echo "$1" | festival --tts
@@ -21,68 +15,67 @@ utter() {
     say "$1"
 }
 
-# 1. Prepare the data: Identify question blocks
-# We treat lines starting with a number as the start of a new record
+# Pre-process the file to find where each numbered question starts
 blocks=$(grep -n "^[0-9]\+\." "$INPUT_FILE" | cut -d: -f1)
 total_questions=$(echo "$blocks" | wc -l)
 
-echo "Found $total_questions questions in $INPUT_FILE."
+clear
+echo "Starting Hands-Free Study Session..."
+echo "Found $total_questions questions. Press Ctrl+C to stop."
+say "Starting your citizenship study session."
 
 while true; do
     # Pick a random question index
     target_idx=$(( (RANDOM % total_questions) + 1 ))
     start_line=$(echo "$blocks" | sed -n "${target_idx}p")
     
-    # Get the next question's start line to define the block end
+    # Define the end of the question block
     next_idx=$((target_idx + 1))
     end_line=$(echo "$blocks" | sed -n "${next_idx}p")
     
     if [ -z "$end_line" ]; then
-        # If it's the last question, read to the end of file
         block=$(sed -n "${start_line},$ p" "$INPUT_FILE")
     else
         block=$(sed -n "${start_line},$((end_line - 1))p" "$INPUT_FILE")
     fi
 
-    # Parse Question (Line 1 of the block)
+    # 1. Parse Question (Line 1)
     question=$(echo "$block" | sed -n '1p')
     
-    # Parse Options (Lines starting from the first non-empty line after the question)
-    # This cleans up strings like "(correct answer)" or "(you got it right)" for the TTS
-    options=$(echo "$block" | tail -n +2 | grep -v "^$" | head -n 4)
-    
-    # Find the correct answer by searching for markers
+    # 2. Parse Options and identify the correct one
+    # We clean the text to remove the markers so the voice doesn't spoil it early
+    options=$(echo "$block" | tail -n +2 | grep -v "^$")
     correct_answer=$(echo "$block" | grep -Ei "\(correct answer\)|\(you got it right\)" | sed 's/(.*)//g' | xargs)
 
     # UTTERANCE PHASE
-    clear
-    utter "Question $question"
+    echo "------------------------------------------"
+    utter "Question: $question"
     sleep 1
 
-    # Read options one by one
     count=1
     while read -r opt; do
+        # Remove markers for the options reading phase
         clean_opt=$(echo "$opt" | sed 's/(.*)//g' | xargs)
-        letter=$(printf "\x$(printf %x $((64 + count)))") # Generates A, B, C, D
+        letter=$(printf "\x$(printf %x $((64 + count)))")
         utter "Option $letter: $clean_opt"
         count=$((count + 1))
+        [ $count -gt 4 ] && break # Ensure we only read 4 options
     done <<< "$options"
 
     # TIMER PHASE
-    echo -e "\n--- You have $TIMER seconds to think ---"
+    echo -ne "\nThinking time: "
     for i in $(seq $TIMER -1 1); do
-        echo -ne "$i... \r"
+        echo -ne "$i... "
         sleep 1
     done
+    echo -e "\n"
 
     # REVEAL PHASE
     if [ -n "$correct_answer" ]; then
         utter "The correct answer is: $correct_answer"
     else
-        utter "I couldn't identify the correct answer in the text for this one."
+        utter "Review the text for this answer."
     fi
 
-    echo -e "\n------------------------------------------"
-    say "Ready for the next question?"
-    sleep 3
+    sleep 4 # Brief pause before the next random question
 done
