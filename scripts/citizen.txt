@@ -1,0 +1,567 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"What are the three parts of Parliament?","The Sovereign, the House of Commons, and the Senate","The Prime Minister, the Premier, and the Mayor","The Senate, the Cabinet, and the House of Commons","The Sovereign, the Governor General, and the Prime Minister",A
+"Who has the right to vote in a federal election?","A Canadian citizen, at least 18 years old on election day and on the voters list","All people living in Canada","Any person over 18 years of age","Canadian citizens and landed immigrants",A
+"What is the name of the Governor General?","Mary Simon","Chak Au","David Eby","Mark Carney",A
+"Which party is currently in power federally (based on your study documents)?","Conservative Party","Liberal Party","New Democratic Party","Green Party",B
+"What is the name of the Prime Minister of Canada (per the 2025 Appendix)?","Justin Trudeau","Pierre Poilievre","Mark Carney","Don Davies",C
+"Who was the first Prime Minister of Canada?","Sir Wilfrid Laurier","Sir John A. Macdonald","Louis Riel","Lester B. Pearson",B
+"From where does the name 'Canada' come?","The French word for 'village'","The Huron-Iroquois word 'Kanata' meaning village","The Inuit word for 'country'","The Métis word for 'rivers'",B
+"What are the three main groups of Aboriginal peoples?","First Nations, Inuit, and Métis","Indian, Eskimo, and French","Cree, Huron, and Iroquois","Inuit, Métis, and Acadians",A
+"Who are the Métis?","The first people to live in Canada","A distinct people of mixed Aboriginal and European ancestry","The first French settlers","The ancestors of the Inuit",B
+"What is Canada's system of government?","A Republic","A Constitutional Monarchy and Parliamentary Democracy","A Dictatorship","A Confederacy",B
+"What is the highest honour a Canadian can receive?","The Order of Canada","The Victoria Cross","The Queen's Medal","The Prime Minister's Award",B
+"In which year did Confederation happen?","1812","1497","1867","1914",C
+"What are the two official languages of Canada?","English and French","English and Spanish","French and Aboriginal","English and Chinese",A
+"Who is the current Premier of British Columbia?","Malcolm Brodie","David Eby","Teresa Wat","Steve Kooner",B
+"What is the capital city of Canada?","Toronto","Montreal","Ottawa","Vancouver",C
+"What does the Canadian flag look like?","Red and white with a beaver","Red with a white square and a red maple leaf","Blue and white with a fleur-de-lis","Red and white with a crown",B
+"Which province has the largest population?","British Columbia","Quebec","Ontario","Alberta",C
+"Who are the Acadians?","The descendants of French colonists who began settling in the Maritimes in 1604","The first English settlers in Upper Canada","A group of Aboriginal people in Quebec","The descendants of the Loyalists",A
+"What is the name of the Sovereign of Canada?","King Charles III","Queen Elizabeth II","Prince William","King George VI",A
+"Who is the King's representative in Canada?","The Prime Minister","The Premier","The Governor General","The Chief Justice",C
+"What is the name of the Mayor of Richmond?","Chak Au","Bill McNulty","Malcolm Brodie","Carol Day",C
+"Who represents the King in a province?","The Premier","The Lieutenant Governor","The Commissioner","The Mayor",B
+"Which region is known as the 'Industrial and Manufacturing Heartland'?","The Atlantic Provinces","The Prairie Provinces","Central Canada","The West Coast",C
+"What are the three branches of government?","Federal, Provincial, and Municipal","Executive, Legislative, and Judicial","The King, the Senate, and the Commons","The Police, the Courts, and the Schools",B
+"When is Canada Day?","July 1st","July 4th","June 24th","November 11th",A
+"What is the national winter sport of Canada?","Skiing","Hockey","Snowboarding","Lacrosse",B
+"Which province is the only officially bilingual province?","Quebec","Ontario","New Brunswick","Manitoba",C
+"What is the name of the building where the federal government meets?","City Hall","The White House","Parliament Buildings","The Legislature",C
+"How many provinces and territories are there in Canada?","10 provinces and 3 territories","13 provinces and 1 territory","5 provinces and 5 territories","10 provinces and 2 territories",A
+"Who was the first leader of a responsible government in the Canadas in 1849?","Sir John A. Macdonald","Sir Louis-Hippolyte La Fontaine","Robert Baldwin","Louis Riel",B
+"What is the population of Canada approximately?","38 million","100 million","10 million","500,000",A
+"Who was Sir Sam Steele?","A Great explorer","A Father of Confederation","A famous Canadian artist","A great frontier hero of the Mounted Police",D
+"What did the Canadian Pacific Railway symbolize?","Unity from sea to sea","The wealth of the fur trade","The power of the King","The end of the war",A
+"Who are the Quebecers?","Only people who speak French","People of Quebec, most of whom are French-speaking","People who moved from France","People who live in Montreal only",B
+"What is the significance of the Magna Carta?","It gave women the right to vote","It includes freedom of conscience and religion","It is the Great Charter of Freedoms","It established the RCMP",C
+"Which battle in WWI saw the Canadian Corps capture a ridge and secure their reputation for bravery?","Battle of the Atlantic","Battle of Vimy Ridge","Battle of Dieppe","Battle of Hong Kong",B
+"What is the role of the Opposition parties?","To agree with the government","To peacefully oppose or try to improve government proposals","To prevent the government from passing laws","To represent the King",B
+"Who is the Member of Parliament (MP) for Richmond Centre?","Parm Bains","Chak Au","Teresa Wat","David Eby",B
+"What happens if the government loses a confidence vote in the House of Commons?","The Prime Minister is fired by the King","The government is replaced by the opposition","The government falls and an election is usually called","Nothing happens",C
+"What does it mean to have a 'secret ballot'?","No one can see who you voted for","The candidates are secret","The results are kept secret for a year","Only the King knows how you voted",A
+"Who were the United Empire Loyalists?","Settlers from France","Settlers from the US who came to Canada during the American Revolution","Aboriginal people who fought for Britain","The first explorers of BC",B
+"What is the name of the Royal Anthem of Canada?","O Canada","God Save the King","The Maple Leaf Forever","Star Spangled Banner",B
+"Which province is known for its majestic mountains and is Canada's Pacific gateway?","Alberta","British Columbia","Saskatchewan","Ontario",B
+"Who was Terry Fox?","A famous Prime Minister","A British Columbia athlete who ran to raise money for cancer research","The first man to walk on the moon","The founder of Richmond",B
+"What is the 'Head of Government' at the federal level called?","The Governor General","The Sovereign","The Prime Minister","The Premier",C
+"What is the 'Head of Government' at the provincial level called?","The Prime Minister","The Premier","The Lieutenant Governor","The Mayor",B
+"What are the four provinces that first formed Confederation?","Ontario, Quebec, New Brunswick, and Nova Scotia","BC, Alberta, Saskatchewan, and Manitoba","PEI, Newfoundland, Ontario, and Quebec","Ontario, Quebec, BC, and Manitoba",A
+"What is the motto of Canada?","A Mari Usque Ad Mare (From sea to sea)","In God We Trust","E Pluribus Unum","Liberty, Equality, Fraternity",A
+"Who discovered insulin?","Alexander Graham Bell","Sir Frederick Banting and Charles Best","Terry Fox","Sir Wilfrid Laurier",B
+"What is the capital of British Columbia?","Vancouver","Richmond","Victoria","Kelowna",C
+"Who was the first woman MP and the first woman to serve in the Cabinet?","Agnes Macphail","Ellen Fairclough","Thérèse Casgrain","Nellie McClung",B
+"Which animal is an official symbol of Canada?","The Moose","The Polar Bear","The Beaver","The Loon",C
+"What is the name of the highest court in Canada?","The Court of Queen's Bench","The Supreme Court of Canada","The Federal Court","The Senate",B
+"What do you call a law before it is passed?","A Bill","A Motion","A Paper","A Rule",A
+"What is the basic way to participate in Canada's democracy?","Joining a protest","Voting in elections","Reading the news","Writing a letter to the King",B
+"Which three oceans border Canada?","Atlantic, Pacific, and Arctic","Atlantic, Pacific, and Indian","Pacific, Arctic, and Southern","Atlantic, Arctic, and Gulf",A
+"Who was the first Canadian to be awarded the Victoria Cross?","Alexander Roberts Dunn","Billy Bishop","William Hall","Paul Triquet",A
+"What is the primary role of the police in Canada?","To make the laws","To keep people safe and enforce the law","To serve the Prime Minister","To run the courts",B
+"Which group of people were the 'Voyageurs'?","Gold miners in the Yukon","Montreal-based traders who travelled by canoe","Explorers of the Northwest Passage","The first farmers in Ontario",B
+"What does the word 'Inuit' mean?","The people","The hunters","The north","The ice",A
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"To whom do you swear allegiance in the Oath of Citizenship?","The Prime Minister","The Flag","The Sovereign (King or Queen)","The Canadian Constitution",C
+"Which document recognizes and affirms Aboriginal and treaty rights?","The Magna Carta","The Constitution of Canada","The Bill of Rights","The North America Act",B
+"What is the first sentence of the Oath of Citizenship?","I promise to follow the law","I swear (or affirm) that I will be faithful and bear true allegiance","I love Canada and the King","I will vote in every election",B
+"In Canada, we profess loyalty to a person who represents all Canadians. Who is this?","The Governor General","The Prime Minister","The Sovereign","The Chief Justice",C
+"Which of the following is a 'Responsibility' of citizenship?","To drive a car","To own property","To protect the environment","To avoid paying taxes",C
+"What are the four 'Fundamental Freedoms' in the Canadian Charter of Rights and Freedoms?","Speech, Religion, Movement, Assembly","Conscience/Religion, Thought/Belief/Opinion/Expression, Peaceful Assembly, Association","Voting, Safety, Privacy, Education","Work, Travel, Health, Expression",B
+"What does 'Habeas Corpus' refer to?","The right to own land","The right to challenge unlawful detention by the state","The right to free healthcare","The right to a secret ballot",B
+"Which charter was signed by King John of England in 1215?","The Great Charter of Freedoms (Magna Carta)","The Charter of Rights","The Treaty of Paris","The Dominion Act",A
+"What are the three types of rights specifically mentioned for Aboriginal people?","Education, Land, Water","First Nations, Inuit, Métis","First Nations, Métis, Inuit","First Nations, Inuit, and Métis",D
+"Who are the three founding peoples of Canada?","Aboriginal, French, and British","French, British, and American","Aboriginal, Viking, and French","English, Irish, and Scottish",A
+"What does 'Kanata' mean in the Huron-Iroquois language?","Ice","River","Village","Mountain",C
+"What was the name of the first French settlement in North America, established in 1604?","Quebec City","Port-Royal (Acadia)","Montreal","St. John's",B
+"Which explorer first reached the Atlantic coast of Canada in 1497 and claimed the land for England?","Jacques Cartier","Samuel de Champlain","John Cabot","Sir Wilfrid Laurier",C
+"Who was the 'Father of New France' and founder of Quebec City in 1608?","Samuel de Champlain","Jacques Cartier","Count Frontenac","Lord Durham",A
+"What was the main trade item that drove the early Canadian economy?","Gold","Timber","Beaver pelts","Wheat",C
+"Who were the 'Voyageurs'?","Gold seekers in BC","Canoe-based fur traders from Montreal","Explorers of the Arctic","Early English farmers",B
+"What was the outcome of the Battle of the Plains of Abraham in 1759?","The French defeated the British","The British defeated the French, marking the end of France's empire in America","Canada became a republic","The US took control of Quebec",B
+"Which act gave Quebecers religious freedom and allowed French Catholics to hold public office?","The Quebec Act of 1774","The Magna Carta","The British North America Act","The Constitutional Act",A
+"Who were the United Empire Loyalists?","Settlers who supported the French","People from the US who moved to Canada during the American Revolution to stay loyal to the Crown","Aboriginal people from the Prairies","British soldiers from the War of 1812",B
+"In what year did the Province of Canada, Nova Scotia, and New Brunswick form Confederation?","1759","1812","1867","1914",C
+"What does 'A Mari Usque Ad Mare' mean?","From Sea to Sea","Land of the Free","Unity through Strength","From North to South",A
+"Who was Canada's first Prime Minister?","Sir John A. Macdonald","Alexander Mackenzie","Sir Wilfrid Laurier","Louis Riel",A
+"What was the 'Head Tax'?","A tax on beaver pelts","A race-based entry fee charged to Chinese immigrants","A tax for owning a house","A tax on whiskey",B
+"Which battle in 1917 is known as the 'birth of a nation' for Canada?","The Battle of the Atlantic","The Battle of Vimy Ridge","The Battle of Britain","The Battle of Dieppe",B
+"Which province was the first to grant voting rights to women?","Quebec","Ontario","Manitoba","British Columbia",C
+"Who was the first woman to be elected to the House of Commons in 1921?","Nellie McClung","Agnes Macphail","Thérèse Casgrain","Ellen Fairclough",B
+"What is the significance of the 1982 patriation of the Constitution?","It ended the war","It added the Charter of Rights and Freedoms and allowed Canada to amend its own Constitution","It made Canada a republic","It created the RCMP",B
+"What are the three parts of the Canadian Parliament?","Prime Minister, Senate, Cabinet","Sovereign, Senate, and House of Commons","Governor General, Premier, Mayor","MP, MLA, Councillor",B
+"How many Members of Parliament (MPs) are in the House of Commons?","308","105","338","450",C
+"Who is the King’s representative in Canada?","The Prime Minister","The Premier","The Governor General","The Chief Justice",C
+"Who is the Governor General of Canada (as of the 2025 Appendix)?","Julie Payette","David Johnston","Mary Simon","Adrienne Clarkson",C
+"Which branch of government makes the laws?","Executive","Judicial","Legislative","Police",C
+"What do you call a proposed law being debated in Parliament?","A Rule","An Order","A Bill","A Motion",C
+"Who is the current Prime Minister of Canada (according to your 2025 Appendix)?","Justin Trudeau","Pierre Poilievre","Mark Carney","Don Davies",C
+"Which party is the 'Official Opposition' federally?","Liberal Party","Conservative Party","NDP","Green Party",B
+"Who is the leader of the Conservative Party of Canada?","Mark Carney","Pierre Poilievre","Elizabeth May","Yves-François Blanchet",B
+"Who is the interim leader of the NDP (per 2025 Appendix)?","Jagmeet Singh","Don Davies","Rachel Notley","David Eby",B
+"What is the name of the Mayor of Richmond?","Chak Au","Bill McNulty","Malcolm Brodie","Carol Day",C
+"Who is the MP for Richmond Centre (per 2025 Appendix)?","Parm Bains","Chak Au","Teresa Wat","Steve Kooner",B
+"Who is the MP for Steveston-Richmond East?","Chak Au","Parm Bains","Kelly Greene","Malcolm Brodie",B
+"Which political party is currently in power in British Columbia?","BC United","Conservative Party of BC","New Democratic Party (NDP)","Liberal Party",C
+"Who is the Premier of British Columbia?","Malcolm Brodie","David Eby","Teresa Wat","Trevor Halford",B
+"Who is the MLA for Richmond North Centre?","Teresa Wat","Hon Chan","Steve Kooner","Kelly Greene",A
+"Who is the MLA for Richmond South Centre?","Steve Kooner","Hon Chan","Teresa Wat","Kelly Greene",B
+"Which animal is the official symbol of Canada?","Moose","Polar Bear","Beaver","Loon",C
+"What are the two official languages of Canada?","English and French","English and Chinese","French and Spanish","English and Aboriginal",A
+"What is the capital city of Canada?","Toronto","Vancouver","Ottawa","Montreal",C
+"What is the capital of British Columbia?","Vancouver","Richmond","Victoria","Kelowna",C
+"What is the population of Canada approximately?","38 million","100 million","10 million","50 million",A
+"What is the 'Victoria Cross'?","A religious symbol","The highest honour for bravery and self-sacrifice in the face of the enemy","A mountain in BC","The name of the Queen's crown",B
+"Who were the 'Group of Seven'?","Founders of Confederation","A group of famous landscape painters","The first seven Prime Ministers","Olympic athletes",B
+"What is the 'National Winter Sport' of Canada?","Skiing","Curling","Hockey","Lacrosse",C
+"What is the 'National Summer Sport' of Canada?","Soccer","Baseball","Lacrosse","Cricket",C
+"Who was Terry Fox?","A famous Prime Minister","An athlete who ran the Marathon of Hope to raise money for cancer research","The first Canadian in space","A famous Mountie",B
+"What happens if the government loses a 'confidence vote' in the House?","They wait for the next year","The government falls and an election is usually called","The Prime Minister is arrested","The King takes over",B
+"How often are federal elections held (under fixed-date legislation)?","Every year","Every 2 years","Every 4 years","Every 10 years",C
+"Who has the right to vote in federal elections?","Everyone over 18","Canadian citizens at least 18 years old on election day on the voters list","Landed immigrants","Students",B
+"What is a 'Constituency' or 'Riding'?","A type of horse","A geographical area represented by an MP","A political party","A government office",B
+"Who is the Lieutenant Governor of British Columbia?","Mary Simon","Janet Austin","Teresa Wat","David Eby",B
+"What is the role of the 'Cabinet'?","To judge criminals","To make major government decisions and run government departments","To advise the King directly","To lead the military",B
+"Which province has its own time zone?","British Columbia","Ontario","Newfoundland","Quebec",C
+"Which region is the 'Industrial and Manufacturing Heartland'?","The Atlantic Provinces","Central Canada (ON/QC)","The Prairies","The West Coast",B
+"Which province is known for its red soil and is the smallest province?","New Brunswick","Nova Scotia","Prince Edward Island","Manitoba",C
+"Which province is Canada’s main producer of oil and gas?","British Columbia","Saskatchewan","Alberta","Newfoundland",C
+"What are the three territories in Canada?","Yukon, NWT, Nunavut","BC, Alberta, Manitoba","Alaska, Yukon, NWT","Nunavut, Quebec, Labrador",A
+"In which year was the 'Charter of Rights and Freedoms' added to the Constitution?","1867","1914","1945","1982",D
+"Who are the Métis?","The first French settlers","A distinct people of mixed Aboriginal and European ancestry","Inuit people living in the south","British soldiers",B
+"What did the Canadian Pacific Railway (CPR) symbolize?","The fur trade","Unity from sea to sea","The power of the US","The end of the monarchy",B
+"Who was Sir Sam Steele?","A famous artist","A great frontier hero of the North West Mounted Police","A Father of Confederation","A Prime Minister",B
+"What is the highest court in Canada?","The Federal Court","The Tax Court","The Supreme Court of Canada","The Court of Appeal",C
+"What do you call the leader of a municipal government?","Premier","Prime Minister","Mayor (or Reeve)","Commissioner",C
+"Which document contains 'Peace, Order, and Good Government'?","The US Constitution","The British North America Act","The Magna Carta","The Bill of Rights",B
+"Who were the 'Acadians'?","People from Ontario","Descendants of French colonists who settled in the Maritimes in 1604","British loyalists","Aboriginal hunters",B
+"What is the 'Order of Canada'?","A religious group","Canada's highest civilian honour for outstanding achievement","A list of laws","A military group",B
+"Which province is the only officially bilingual province?","Quebec","New Brunswick","Ontario","Manitoba",B
+"What is the name of the legislative assembly in British Columbia?","House of Commons","Senate","Legislative Assembly","City Hall",C
+"Who appoints the Governor General?","The Prime Minister","The King on the advice of the Prime Minister","The People","The Senate",B
+"What is the role of the 'Opposition Parties'?","To agree with the Prime Minister","To peacefully oppose or try to improve government proposals","To make new laws","To run the provinces",B
+"Who was Sir Louis-Hippolyte La Fontaine?","The first Prime Minister","The first leader of a responsible government in the Canadas","The founder of Vancouver","A famous explorer",B
+"What is the significance of the year 1812?","Confederation","The US tried to invade Canada but were defeated","The first railway was built","Gold was found",B
+"Who was Laura Secord?","The first woman MP","A hero of the War of 1812 who warned the British of an American attack","A famous painter","The first woman doctor",B
+"What is the name of the Royal Anthem?","O Canada","God Save the King","The Maple Leaf Forever","The Star Spangled Banner",B
+"When is Remembrance Day?","July 1st","November 11th","June 24th","December 25th",B
+"What is the 'Poppy' a symbol of?","Christmas","Remembrance of those who served and died in wars","Spring","The Liberal Party",B
+"What is the main role of the 'Police' in Canada?","To make laws","To keep people safe and enforce the law","To run the elections","To collect taxes",B
+"Which ocean is to the West of Canada?","Atlantic","Arctic","Pacific","Indian",C
+"Which province has the largest population?","Quebec","British Columbia","Ontario","Alberta",C
+"Which territory was created in 1999 from the eastern part of the Northwest Territories?","Yukon","Nunavut","Labrador","Saskatchewan",B
+"What is the name of the world's longest undefended border?","The Canada-Russia border","The Canada-USA border","The Canada-Mexico border","The BC-Alberta border",B
+"Which Canadian symbol is found on the 1-cent coin (though it is no longer in circulation)?","The Loon","The Caribou","The Maple Leaf","The Beaver",C
+"What does 'Responsible Government' mean?","The government must be responsible for the environment","The executive must have the support of a majority of the elected assembly to govern","The King is responsible for all laws","The people must pay taxes",B
+"Who were the 'Aboriginal people' in Canada?","The first people to live in Canada","The first British settlers","The first French settlers","Immigrants from Asia",A
+"Which group of Aboriginal people live in the Arctic?","First Nations","Métis","Inuit","Cree",C
+"What is the name of the tower in the centre of the Parliament Buildings in Ottawa?","The CN Tower","The Peace Tower","The Clock Tower","The Victory Tower",B
+"What are the three levels of government in Canada?","Federal, Provincial, Municipal","King, Queen, Prince","Police, Courts, Schools","East, West, Central",A
+"Who is the Head of State in Canada?","The Prime Minister","The Sovereign (King or Queen)","The Governor General","The Chief Justice",B
+"Who is the Head of Government?","The Governor General","The Sovereign","The Prime Minister","The Speaker",C
+"What is the name of the building where the provincial government of BC meets?","Parliament Buildings","The Legislature (Victoria)","Richmond City Hall","The White House",B
+"Which province is known as the 'Land of 100,000 Lakes'?","Ontario","Manitoba","Saskatchewan","Quebec",B
+"What do you call the ceremony where a person becomes a Canadian citizen?","Citizenship Test","Citizenship Ceremony","Oath Party","Landing Day",B
+Question,Option A,Option B,Option C,Option D,Correct Answer
+[cite_start]"In what year did French explorers Pierre de Monts and Samuel de Champlain establish the first European settlement north of Florida? [cite: 67]","1497","1604","1608","1759",B
+[cite_start]"Where was the first French settlement in North America located? [cite: 67]","Quebec City","St. Croix Island (then Port-Royal)","Montreal","Louisbourg",B
+[cite_start]"Which First Nations did Samuel de Champlain ally with against the Iroquois? [cite: 69]","Algonquin, Montagnais, and Huron","Cree and Métis","Mohawk and Seneca","Ojibwa and Blackfoot",A
+[cite_start]"Who were the 'coureurs des bois'? [cite: 74]","British soldiers","French explorers and fur traders who travelled by canoe","Aboriginal leaders","Early farmers in Ontario",B
+[cite_start]"What was the 'Struggle for a Continent' primarily about in the 1700s? [cite: 76]","The fur trade and control of North America between France and Britain","Gold mining in the Yukon","Fishing rights in the Pacific","The border with Mexico",A
+[cite_start]"Who was the British general who defeated the French at the Battle of the Plains of Abraham? [cite: 77]","General Brock","General Wolfe","The Duke of Wellington","General Montcalm",B
+[cite_start]"In which year did the British defeat the French at Quebec City, ending France's empire in North America? [cite: 77]","1759","1774","1812","1867",A
+[cite_start]"What did the Quebec Act of 1774 guarantee for French-Canadians? [cite: 154]","Free land for all","The right to vote for women","Religious freedom and the ability to hold public office for Catholics","Complete independence from Britain",C
+[cite_start]"Following the American Revolution, how many United Empire Loyalists fled to Canada? [cite: 199]","1,000","5,000","40,000","500,000",C
+[cite_start]"Which two provinces were created by the Constitutional Act of 1791? [cite: 199]","Ontario and Quebec","Upper Canada and Lower Canada","New Brunswick and Nova Scotia","Manitoba and Saskatchewan",B
+[cite_start]"Who was the first Lieutenant-Governor of Upper Canada and founder of Toronto? [cite: 199]","Sir John A. Macdonald","John Graves Simcoe","Lord Durham","Isaac Brock",B
+[cite_start]"In what year did the United States launch an invasion of Canada, starting the War of 1812? [cite: 154]","1776","1812","1814","1867",B
+[cite_start]"Who was the military leader who died defending Canada at the Battle of Queenston Heights in 1812? [cite: 153]","General Wolfe","Major-General Sir Isaac Brock","The Duke of Wellington","Chief Tecumseh",B
+[cite_start]"Which Shawnee chief supported the British and died in the War of 1812? [cite: 153]","Poundmaker","Big Bear","Chief Tecumseh","Louis Riel",C
+[cite_start]"What strategic canal was built between 1826 and 1832 as part of a network to prevent U.S. invasions? [cite: 135]","The Suez Canal","The Rideau Canal","The Panama Canal","The Welland Canal",B
+[cite_start]"Who chose Bytown (now Ottawa) as the endpoint of the Rideau Canal? [cite: 135]","Sir John A. Macdonald","The Duke of Wellington","Samuel de Champlain","Queen Victoria",B
+[cite_start]"Who was the hero of the War of 1812 who walked 30 km to warn British troops of an American attack? [cite: 199]","Nellie McClung","Agnes Macphail","Laura Secord","Emily Stowe",C
+[cite_start]"What was the result of the Rebellions of 1837-38 in Upper and Lower Canada? [cite: 182-184]","Canada became a republic","The rebels won and took control","The rebels were defeated, but it led to the recommendation for responsible government","Britain left Canada",C
+[cite_start]"Who was the English reformer sent to Canada to report on the Rebellions of 1837-38? [cite: 184]","Lord Elgin","Lord Durham","Lord Kitchener","Robert Baldwin",B
+[cite_start]"Which was the first British North American colony to attain full responsible government? [cite: 203]","Upper Canada","Lower Canada","Nova Scotia","New Brunswick",C
+[cite_start]"Who were the joint leaders of the first responsible government in the United Province of Canada? [cite: 202]","Macdonald and Cartier","La Fontaine and Baldwin","Laurier and Borden","King and Byng",B
+[cite_start]"In what year did the Dominion of Canada officially come into existence? [cite: 185]","1812","1867","1905","1999",B
+[cite_start]"Which four provinces formed the original Confederation in 1867? [cite: 209]","Ontario, Quebec, BC, and PEI","Ontario, Quebec, Nova Scotia, and New Brunswick","Manitoba, Ontario, Quebec, and Nova Scotia","Alberta, Saskatchewan, BC, and Ontario",B
+[cite_start]"Who suggested the name 'Dominion of Canada' in 1864? [cite: 194]","Sir John A. Macdonald","Sir Leonard Tilley","Sir George-Étienne Cartier","Lord Elgin",B
+[cite_start]"What was the source of inspiration for the title 'Dominion of Canada'? [cite: 194]","A poem by Shakespeare","A phrase from the Bible (Psalm 72)","A French military term","The Magna Carta",B
+[cite_start]"Who was the key architect of Confederation from Quebec? [cite: 192]","Louis Riel","Sir George-Étienne Cartier","Sir Wilfrid Laurier","Thérèse Casgrain",B
+[cite_start]"Which province joined Confederation in 1870? [cite: 185]","British Columbia","Prince Edward Island","Manitoba","Newfoundland",C
+[cite_start]"In which year did British Columbia join Confederation? [cite: 185]","1867","1871","1873","1905",B
+[cite_start]"Why did British Columbia agree to join Canada in 1871? [cite: 193]","They were promised a transcontinental railway","They wanted to go to war with the US","They needed more fur traders","They wanted to change their capital city",A
+[cite_start]"When did Prince Edward Island join Confederation? [cite: 185]","1870","1873","1880","1905",B
+[cite_start]"In 1880, what territory was transferred to Canada from Britain? [cite: 185]","Alaska","The Arctic Islands","Greenland","Newfoundland",B
+[cite_start]"In what year were Alberta and Saskatchewan created as provinces? [cite: 185]","1867","1885","1905","1949",C
+[cite_start]"Which was the last province to join Confederation in 1949? [cite: 185]","Manitoba","Nunavut","Newfoundland and Labrador","Saskatchewan",C
+[cite_start]"What is the newest territory in Canada, created in 1999? [cite: 185]","Yukon","Northwest Territories","Nunavut","Labrador",C
+"Who was the leader of the Métis and 'Father of Manitoba'?","Sir John A. Macdonald","Louis Riel","Sir Sam Steele","Gabriel Dumont",B
+[cite_start]"Who was the founder of the women's suffrage movement in Canada? [cite: 284]","Nellie McClung","Dr. Emily Stowe","Agnes Macphail","Thérèse Casgrain",B
+[cite_start]"Which province was the first to grant women the right to vote in 1916? [cite: 285]","Ontario","Quebec","Manitoba","British Columbia",C
+[cite_start]"In what year were most Canadian women over 21 granted the right to vote in federal elections? [cite: 287]","1867","1914","1918","1940",C
+[cite_start]"Who was the first woman elected to the House of Commons (1921)? [cite: 288]","Agnes Macphail","Ellen Fairclough","Cairine Wilson","Kim Campbell",A
+[cite_start]"In 1940, which province finally granted women the right to vote? [cite: 289]","New Brunswick","Quebec","Alberta","Nova Scotia",B
+[cite_start]"What was the 'head tax' introduced in 1885? [cite: 277-280]","A tax on all citizens","A race-based entry fee for Chinese immigrants","A tax for owning cattle","A tax on explorers",B
+"How many Canadians served in the First World War?","10,000","60,000","More than 600,000","1 million",C
+"The 'Battle of Vimy Ridge' in April 1917 is significant because:","It was the end of the war","It was a major victory where the Canadian Corps secured its reputation for valour","It was fought in Canada","The US joined the war there",B
+[cite_start]"Who was the first Canadian Prime Minister of French-Canadian heritage? [cite: 279]","Sir Wilfrid Laurier","Sir Louis-Hippolyte La Fontaine","Louis St. Laurent","Pierre Trudeau",A
+[cite_start]"What is the name of the Canadian national motto, 'A Mari Usque Ad Mare'? [cite: 361]","From Sea to Sea","Land of the Free","Unity through Strength","From North to South",A
+[cite_start]"Which three oceans line Canada's frontiers? [cite: 392]","Atlantic, Indian, and Pacific","Atlantic, Pacific, and Arctic","Arctic, Southern, and Atlantic","Pacific, Indian, and Arctic",B
+[cite_start]"Canada is the ______ largest country on earth. [cite: 391]","First","Second","Third","Fifth",B
+[cite_start]"What is the total land area of Canada? [cite: 391]","1 million square km","5 million square km","10 million square km","20 million square km",C
+"Where does the name 'Canada' come from?","The French word for village","The Huron-Iroquois word 'Kanata' meaning village","The Inuit word for ice","The English word for woods",B
+[cite_start]"Who is the current Governor General of Canada? [cite: 2141]","Julie Payette","David Johnston","Mary Simon","Justin Trudeau",C
+[cite_start]"Who is the current Prime Minister of Canada (per the 2025 Appendix)? [cite: 2141]","Justin Trudeau","Pierre Poilievre","Mark Carney","Don Davies",C
+[cite_start]"Which political party is the Official Opposition federally? [cite: 2141]","Liberal Party","Conservative Party","NDP","Bloc Québécois",B
+[cite_start]"Who is the leader of the Conservative Party? [cite: 2141]","Mark Carney","Pierre Poilievre","Elizabeth May","Yves-François Blanchet",B
+[cite_start]"Who is the interim leader of the federal NDP? [cite: 2141]","Jagmeet Singh","Don Davies","Rachel Notley","David Eby",B
+[cite_start]"Who is the Member of Parliament for Richmond Centre? [cite: 2141]","Parm Bains","Chak Au","Teresa Wat","Malcolm Brodie",B
+[cite_start]"Who is the Member of Parliament for Steveston-Richmond East? [cite: 2141]","Chak Au","Parm Bains","Kelly Greene","Malcolm Brodie",B
+[cite_start]"What is the capital city of British Columbia? [cite: 390]","Vancouver","Richmond","Victoria","Kelowna",C
+[cite_start]"Who is the current Premier of British Columbia? [cite: 2141]","Malcolm Brodie","David Eby","Teresa Wat","Steve Kooner",B
+[cite_start]"Which political party is in power in British Columbia? [cite: 2141]","BC United","Conservative Party of BC","New Democratic Party (NDP)","Liberal Party",C
+[cite_start]"Who is the Mayor of Richmond? [cite: 2141]","Chak Au","Bill McNulty","Malcolm Brodie","Carol Day",C
+[cite_start]"Which area of Canada is known as 'Central Canada'? [cite: 390]","Alberta and Saskatchewan","Ontario and Quebec","The Maritimes","The North",B
+[cite_start]"Which province has the largest population? [cite: 390]","Quebec","British Columbia","Ontario","Alberta",C
+[cite_start]"Which region is known as the 'Atlantic Provinces'? [cite: 390]","NB, NS, PEI, and NFLD","Ontario and Quebec","BC, AB, SK, and MB","Yukon and NWT",A
+[cite_start]"Which province is the only officially bilingual province? [cite: 390]","Quebec","Ontario","New Brunswick","Manitoba",C
+[cite_start]"What are the three Prairie Provinces? [cite: 390]","BC, AB, and SK","AB, SK, and MB","MB, ON, and QC","NS, NB, and PEI",B
+[cite_start]"What is the capital of Ontario? [cite: 390]","Ottawa","Toronto","Hamilton","Kingston",B
+[cite_start]"What is the capital of Quebec? [cite: 390]","Montreal","Quebec City","Sherbrooke","Laval",B
+[cite_start]"What is the capital of Manitoba? [cite: 390]","Regina","Edmonton","Winnipeg","Brandon",C
+[cite_start]"What is the capital of Saskatchewan? [cite: 390]","Saskatoon","Regina","Moose Jaw","Prince Albert",B
+[cite_start]"What is the capital of Alberta? [cite: 390]","Calgary","Edmonton","Lethbridge","Red Deer",B
+[cite_start]"What is the capital of Newfoundland and Labrador? [cite: 390]","Halifax","Fredericton","St. John's","Charlottetown",C
+[cite_start]"What is the capital of Nova Scotia? [cite: 390]","St. John's","Halifax","Sydney","Moncton",B
+[cite_start]"What is the capital of New Brunswick? [cite: 390]","Moncton","Saint John","Fredericton","Bathurst",C
+[cite_start]"What is the capital of Prince Edward Island? [cite: 390]","Summerside","Charlottetown","Halifax","Sydney",B
+[cite_start]"What is the capital of Yukon? [cite: 390]","Yellowknife","Whitehorse","Iqaluit","Dawson City",B
+[cite_start]"What is the capital of the Northwest Territories? [cite: 390]","Whitehorse","Yellowknife","Iqaluit","Inuvik",B
+[cite_start]"What is the capital of Nunavut? [cite: 390]","Iqaluit","Pangnirtung","Rankin Inlet","Yellowknife",A
+[cite_start]"Which province is known for its fertile farmland and as the 'breadbasket' of the world? [cite: 48, 391]","Ontario","British Columbia","Saskatchewan","New Brunswick",C
+[cite_start]"Which province is the main producer of oil and gas in Canada? [cite: 391]","Quebec","Saskatchewan","Alberta","Manitoba",C
+[cite_start]"Which ocean is to the east of Canada? [cite: 392]","Pacific","Atlantic","Arctic","Indian",B
+[cite_start]"Which ocean is to the north of Canada? [cite: 392]","Atlantic","Pacific","Arctic","Southern",C
+[cite_start]"The fleur-de-lys was a symbol of which royalty? [cite: 358]","British","French","Spanish","Roman",B
+[cite_start]"When did Quebec adopt its own flag, based on the Cross and the fleur-de-lys? [cite: 360]","1867","1914","1948","1982",C
+[cite_start]"What symbols are contained in the Canadian coat of arms? [cite: 362]","Only the Maple Leaf","Symbols of England, France, Scotland, and Ireland plus maple leaves","A beaver and a moose","The Peace Tower and the Flag",B
+[cite_start]"Where can the Canadian coat of arms be seen today? [cite: 363]","Only on the flag","On dollar bills, government documents, and public buildings","Only in museums","On the King's crown",B
+"What is the name of the tower in the centre of the Parliament Buildings in Ottawa?","The CN Tower","The Clock Tower","The Peace Tower","The Victory Tower",C
+"The Peace Tower was completed in 1927 to commemorate what?","Confederation","The end of the War of 1812","The First World War","The visit of the King",C
+"What is the official name of the '10-cent' coin?","The Nickel","The Dime","The Quarter","The Loonie",B
+"Which animal is shown on the 5-cent coin (nickel)?","The Beaver","The Caribou","The Loon","The Polar Bear",A
+"Which animal is shown on the 25-cent coin (quarter)?","The Beaver","The Caribou","The Moose","The Polar Bear",B
+"What is on the 1-dollar coin?","A Beaver","A Loon","A Polar Bear","A Maple Leaf",B
+"What is on the 2-dollar coin?","A Beaver","A Loon","A Polar Bear","A Maple Leaf",C
+[cite_start]"Who is the current MLA for Richmond North Centre? [cite: 2141]","Teresa Wat","Hon Chan","Steve Kooner","Kelly Greene",A
+[cite_start]"Who is the current MLA for Richmond South Centre? [cite: 2141]","Steve Kooner","Hon Chan","Teresa Wat","Kelly Greene",B
+[cite_start]"Who is the current MLA for Richmond-Steveston? [cite: 2141]","Kelly Greene","Teresa Wat","Hon Chan","Steve Kooner",A
+[cite_start]"Who is the current MLA for Richmond-Queensborough? [cite: 2141]","Steve Kooner","Kelly Greene","Hon Chan","Teresa Wat",A
+[cite_start]"What does the term 'Responsible Government' mean? [cite: 197]","The government is responsible for the budget","The ministers of the Crown must have the support of a majority of elected representatives to govern","The King is responsible for all laws","The people are responsible for the environment",B
+"Who was the first Canadian to be awarded the Victoria Cross?","Billy Bishop","William Hall","Alexander Roberts Dunn","Sam Steele",C
+[cite_start]"Which province has the highest concentration of French-speakers? [cite: 54]","Ontario","New Brunswick","Quebec","Manitoba",C
+"The Peace Tower contains a 'Books of Remembrance'. What are these?","A list of all citizens","A list of the names of soldiers who died in wars","A history of the Parliament","The Laws of Canada",B
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"In the Second World War, in which year did the D-Day invasion of Normandy take place?","1914","1939","1944","1945",C
+"Which Canadian division took part in the D-Day invasion on Juno Beach?","1st Canadian Division","3rd Canadian Infantry Division","The Royal Rifles","The Calgary Highlanders",B
+"How many Canadians served in the Second World War?","100,000","500,000","Over one million","2 million",C
+"What was the 'Cold War'?","A war fought in the Arctic","A period of tension between the West and the Communist Soviet Union","A war during the winter of 1912","A trade war with the US",B
+"Which international organization was Canada a founding member of in 1945?","The League of Nations","The United Nations (UN)","The European Union","NAFTA",B
+"What is NATO?","A trade agreement","The North Atlantic Treaty Organization, a military alliance","A group for space exploration","A Canadian environmental group",B
+"Which Canadian Prime Minister won the Nobel Peace Prize for his role in the Suez Crisis?","Lester B. Pearson","John Diefenbaker","Pierre Trudeau","Brian Mulroney",A
+"What is the 'Quiet Revolution'?","A military coup in Ottawa","A period of rapid social and economic change in Quebec in the 1960s","A protest by farmers in the Prairies","The birth of the RCMP",B
+"In what year did the Official Languages Act ensure the equality of French and English in the federal government?","1867","1914","1969","1982",C
+"Who was the first French-Canadian Governor General (appointed in 1952)?","Vincent Massey","Georges Vanier","Jeanne Sauvé","Roméo LeBlanc",B
+"Who was the first Canadian to be awarded the Victoria Cross in the Second World War?","Billy Bishop","Captain Kai-Cheng","Captain Paul Triquet","Andrew Mynarski",C
+"What is the 'Canadian Charter of Rights and Freedoms'?","A list of rules for the police","A document that protects the fundamental rights and freedoms of Canadians","A trade agreement with the US","A map of Canada",B
+"What is the role of the 'Judiciary' in Canada?","To make laws","To enforce laws through the police","To interpret and apply the laws","To advise the King",C
+"What is the principle of 'The Rule of Law'?","The Prime Minister is above the law","No one is above the law, and laws apply equally to everyone","Only citizens must follow the law","The King makes all laws",B
+"Which court is the highest court in Canada?","The Federal Court","The Provincial Court","The Supreme Court of Canada","The Tax Court",C
+"Who appoints the judges of the Supreme Court of Canada?","The King","The Governor General on the advice of the Prime Minister","The People through voting","The Chief Justice",B
+"What is the name of the symbol of justice, often shown blindfolded?","The Queen","Goddess of Justice (Themis or Justitia)","Mother Canada","The Spirit of Haida Gwaii",B
+"What is the primary role of the police in Canada?","To punish criminals","To keep people safe and enforce the law","To collect taxes","To run the jails",B
+"What are the three main types of police in Canada?","Federal, Provincial, and Municipal","Army, Navy, and Air Force","City, Town, and Village","Security, Guards, and Detectives",A
+"What is the name of the national police force?","The FBI","The Royal Canadian Mounted Police (RCMP)","The Canadian Guard","The Ontario Provincial Police",B
+"Who is the representative of the King in the province of British Columbia?","Mary Simon","Janet Austin","David Eby","Malcolm Brodie",B
+"In a federal election, what is a 'Voter Information Card'?","A card that tells you who to vote for","A card that tells you when and where to vote","Your citizenship certificate","A membership card for a political party",B
+"What is the 'Voters List'?","A list of all people in the world","A list of Canadian citizens who are eligible to vote in a specific area","A list of people who have already voted","A list of politicians",B
+"On election day, if you are a Canadian citizen 18 or older and your name is not on the voters list, what can you do?","You cannot vote","You can go to the polling station with ID and be added to the list","You must wait for the next election","You must call the Prime Minister",B
+"What does a 'Secret Ballot' mean?","Only the government knows who you voted for","No one can watch you vote and no one should look at how you voted","You vote by mail only","The candidates are secret",B
+"After the votes are counted and the results are announced, what is the next step for the winning party?","The leader is immediately the King","The Governor General invites the leader of the party with the most seats to form the government","An election is held again the next day","They move to the Supreme Court",B
+"What is the 'Cabinet'?","A group of people who make the laws","A group of ministers appointed by the Prime Minister to run government departments","A place to store files","The Opposition party",B
+"What does the term 'Cabinet solidarity' mean?","Ministers must always vote against each other","Ministers must support government decisions in public","The Cabinet is built out of wood","The Cabinet stays in power forever",B
+"If the government is defeated on a 'non-confidence' motion in the House, what happens?","The Prime Minister is fired","The government must resign and an election is usually called","The Senate takes over","Nothing happens",B
+"What is the name of the legislative body in a municipality like Richmond?","The Senate","The House of Commons","City Council","The Legislative Assembly",C
+"How many City Councillors does Richmond have?","5","8","10","12",B
+"Who is the current Prime Minister of Canada (according to the December 2025 Appendix)?","Justin Trudeau","Pierre Poilievre","Mark Carney","Jagmeet Singh",C
+"Which party does Mark Carney lead?","Conservative Party","Liberal Party","NDP","Green Party",B
+"Who is the Leader of the Official Opposition at the federal level?","Mark Carney","Pierre Poilievre","Don Davies","Elizabeth May",B
+"Which federal party is in power?","Conservative Party","Liberal Party","NDP","Bloc Québécois",B
+"Who is the interim leader of the federal NDP?","Jagmeet Singh","Don Davies","David Eby","Parm Bains",B
+"Name the two federal electoral districts in Richmond.","Richmond North and South","Richmond Centre and Steveston-Richmond East","Richmond East and West","Richmond Delta and Brighouse",B
+"Who is the MP for Richmond Centre?","Parm Bains","Chak Au","Teresa Wat","Malcolm Brodie",B
+"Who is the MP for Steveston-Richmond East?","Chak Au","Parm Bains","Kelly Greene","Steve Kooner",B
+"What is Canada's largest trading partner?","The United Kingdom","China","The United States","France",C
+"What three countries are part of the North American Free Trade Agreement (NAFTA/USMCA)?","Canada, USA, and UK","Canada, USA, and Mexico","Canada, Mexico, and France","USA, Mexico, and Japan",B
+"Which region is the 'Industrial and Manufacturing Heartland' of Canada?","The Atlantic Provinces","Central Canada (Ontario and Quebec)","The West Coast","The Prairies",B
+"What is the main natural resource of the Prairie provinces?","Fish","Oil, gas, and agriculture (wheat)","Lumber","Hydroelectricity",B
+"Which province produces more than three-quarters of Canada's maple syrup?","Ontario","Quebec","New Brunswick","Nova Scotia",B
+"Which province is known as Canada’s 'Energy Province'?","British Columbia","Ontario","Alberta","Saskatchewan",C
+"Which province has the largest fishing industry in the Atlantic?","New Brunswick","Prince Edward Island","Nova Scotia","Manitoba",C
+"What is the 'Canadarm'?","A robot used in hospitals","A robotic arm used in outer space, designed by Canadians","A bridge in Montreal","A type of military weapon",B
+"Who was the scientist who discovered insulin to treat diabetes?","Alexander Graham Bell","Sir Frederick Banting","Terry Fox","David Suzuki",B
+"What did Alexander Graham Bell invent?","The lightbulb","The telephone","The radio","The snowmobile",B
+"Who invented the first cardiac pacemaker?","John Hopps","Arthur Sicard","Joseph-Armand Bombardier","Mike Lazaridis",A
+"Who invented the BlackBerry?","Sir Sandford Fleming","Mike Lazaridis and Jim Balsillie","James Naismith","Reginald Fessenden",B
+"What did Joseph-Armand Bombardier invent?","The airplane","The telephone","The snowmobile","The radio",C
+"What is the name of the worldwide system of standard time zones invented by a Canadian?","The Green Time","Standard Time (Sir Sandford Fleming)","Atomic Time","Universal Clock",B
+"Who was the first Canadian woman to be a doctor?","Emily Stowe","Nellie McClung","Agnes Macphail","Jeanne Sauvé",A
+"What is the national summer sport of Canada?","Hockey","Baseball","Lacrosse","Soccer",C
+"What is the national winter sport of Canada?","Skiing","Curling","Hockey","Snowboarding",C
+"Who was the world-famous runner from BC who raised money for cancer research with his 'Marathon of Hope'?","Rick Hansen","Terry Fox","Wayne Gretzky","Donovan Bailey",B
+"Which Canadian athlete won two gold medals in the 1996 Olympic Games and was called the 'world's fastest man'?","Terry Fox","Donovan Bailey","Ferguson Jenkins","James Naismith",B
+"Who invented the game of Basketball?","Wayne Gretzky","James Naismith","Lionel Conacher","Oscar Peterson",B
+"What is the name of the annual hockey trophy donated by the Governor General in 1892?","The Grey Cup","The Stanley Cup","The Memorial Cup","The Brier",B
+"Who was the famous Canadian jazz pianist known as 'the man with eight hands'?","Oscar Peterson","Glenn Gould","Céline Dion","Bryan Adams",A
+"What is the name of the famous group of landscape painters from the 1920s?","The Magnificent Seven","The Group of Seven","The Painters of Canada","The Canadian Artists",B
+"Who was the artist known for her paintings of the West Coast and Aboriginal culture?","Emily Carr","Maud Lewis","Kenojuak Ashevak","Jeanne Sauvé",A
+"What is 'The Spirit of Haida Gwaii'?","A famous poem","A sculpture by Bill Reid featured on the $20 bill","A Canadian movie","A national park",B
+"What are the three main industries in British Columbia's economy?","Oil, gas, and wheat","Forests, water (hydro), and fish","Automobiles, steel, and farming","Potash, uranium, and grain",B
+"Who is the current Mayor of Richmond?","Chak Au","Bill McNulty","Malcolm Brodie","Carol Day",C
+"Name three Richmond City Councillors.","Chak Au, Carol Day, Bill McNulty","David Eby, Teresa Wat, Parm Bains","Justin Trudeau, Mark Carney, Pierre Poilievre","Malcolm Brodie, Mary Simon, Janet Austin",A
+"Who is the MLA for Richmond North Centre?","Teresa Wat","Hon Chan","Steve Kooner","Kelly Greene",A
+"Who is the MLA for Richmond South Centre?","Steve Kooner","Hon Chan","Teresa Wat","Kelly Greene",B
+"Who is the MLA for Richmond-Steveston?","Kelly Greene","Teresa Wat","Hon Chan","Steve Kooner",A
+"Who is the MLA for Richmond-Queensborough?","Steve Kooner","Kelly Greene","Hon Chan","Teresa Wat",A
+"Which party is in power in British Columbia?","Conservative Party of BC","New Democratic Party (BC NDP)","BC United","Green Party",B
+"Who is the Premier of BC?","Malcolm Brodie","David Eby","John Horgan","Trevor Halford",B
+"Who is the interim Leader of the Opposition in BC?","David Eby","Trevor Halford","Teresa Wat","Steve Kooner",B
+"What is the population of the City of Richmond?","50,000","230,584","1 million","500,000",B
+"How many council positions are there in Richmond?","5","8","10","15",B
+"In Canada, do you have to tell anyone how you voted?","Yes, if the police ask","Yes, to your family","No, your vote is secret","Only to the election officer",C
+"Which level of government is responsible for garbage collection and snow removal?","Federal","Provincial","Municipal (Local)","The King",C
+"Which level of government is responsible for education and health care?","Federal","Provincial","Municipal","International",B
+"Which level of government is responsible for national defense and foreign policy?","Federal","Provincial","Municipal","Regional",A
+"What is the name of the official home of the Governor General?","The White House","Rideau Hall","Parliament Hill","The Citadelle",B
+"What is the 'Order of Canada'?","A religious group","Canada's highest civilian honour","A list of laws","A military ranking",B
+"Who was the first woman to serve as Governor General?","Jeanne Sauvé","Adrienne Clarkson","Michaëlle Jean","Mary Simon",A
+"Who was the first woman Prime Minister of Canada?","Kim Campbell","Ellen Fairclough","Agnes Macphail","Nellie McClung",A
+"What is the Victoria Cross?","A church in Victoria","The highest honour for bravery in the face of the enemy","A medal for long service in the government","A symbol on the flag",B
+"Who was the first Canadian to win the Victoria Cross?","Billy Bishop","William Hall","Alexander Roberts Dunn","Sam Steele",C
+"Who was the first black person to win the Victoria Cross?","William Hall","Alexander Dunn","Sam Steele","Filip Konowal",A
+"What is the 'Poppy' a symbol of?","Remembrance of those who served and died in wars","The Liberal Party","Christmas","Canada Day",A
+"When do Canadians celebrate Remembrance Day?","July 1st","November 11th","December 25th","January 1st",B
+"At what time on November 11th do Canadians observe two minutes of silence?","9:00 AM","11:00 AM","1:00 PM","11:00 PM",B
+"What is the name of the Canadian national anthem?","God Save the King","O Canada","The Maple Leaf Forever","The Star Spangled Banner",B
+"Who wrote the music for 'O Canada'?","Calixa Lavallée","Sir Adolphe-Basile Routhier","Robert Stanley Weir","Lester Pearson",A
+"Who wrote the English lyrics to 'O Canada' in 1908?","Robert Stanley Weir","Calixa Lavallée","Sir John A. Macdonald","The King",A
+"In what year did 'O Canada' officially become the national anthem?","1867","1880","1965","1980",D
+"What is the Royal Anthem of Canada?","O Canada","God Save the King","The British Anthem","The Queen's Song",B
+"What is the name of the French-Canadian national holiday on June 24th?","Canada Day","Saint-Jean-Baptiste Day (Fête nationale)","Labour Day","Victoria Day",B
+"What is celebrated on the Monday on or before May 24th?","Canada Day","Victoria Day","Civic Holiday","Thanksgiving",B
+"What is the official name of the '50-cent' coin?","A half-dollar","A fifty-cent piece","A nickel","A quarter",B
+"Which animal is on the $20 bill?","The Beaver","The Loon","The Spirit of Haida Gwaii (sculpture)","The Polar Bear",C
+"Whose portrait is on the $20 bill?","Sir John A. Macdonald","Sir Wilfrid Laurier","The Sovereign (King Charles III / formerly Queen Elizabeth II)","William Lyon Mackenzie King",C
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"What does 'Mobility Rights' mean in the Charter?","The right to own a vehicle","The right to live and work anywhere in Canada","The right to move to the US","The right to free public transit",B
+"Which group's rights are 'recognized and affirmed' in the 1982 Constitution?","Only French Canadians","First Nations, Inuit, and Métis","British settlers only","New immigrants",B
+"What is the role of the 'Sovereign' (The King) in Canada?","To make the daily laws","He is the symbol of Canadian sovereignty and the Head of State","To lead the military in battle","To run the provincial governments",B
+"Who is the current Governor General (as of the 2025 Appendix)?","Julie Payette","David Johnston","Mary Simon","Justin Trudeau",C
+"Which branch of government is responsible for interpreting the laws?","Executive","Legislative","Judicial","Police",C
+"What are the three parts of the Canadian Parliament?","The King, the Senate, and the House of Commons","The PM, the Cabinet, and the Senate","The MPs, the MLAs, and the Mayor","The Speaker, the Judge, and the Jury",A
+"Who appoints the members of the Senate?","The People","The Governor General on the advice of the Prime Minister","The King directly","The Premiers of the provinces",B
+"What is the maximum number of seats in the Senate?","50","105","338","450",B
+"What is the main role of the Senate?","To make taxes","To act as a chamber of 'sober second thought' and represent regional interests","To lead the police","To fire the Prime Minister",B
+"How are Members of Parliament (MPs) chosen?","Appointed by the PM","Elected by voters in their local constituency (riding)","Chosen by the King","Selected by the Senate",B
+"What do you call a proposed law being debated in Parliament?","A Rule","An Order","A Bill","A Motion",C
+"What is 'Royal Assent'?","The final step for a bill to become law, given by the Governor General","The King's birthday","An invitation to dinner at the Palace","The Prime Minister's signature",A
+"What is a 'Majority Government'?","A party with more than half the seats in the House","A party everyone likes","A government with only one leader","A government that lasts 10 years",A
+"What is a 'Minority Government'?","A government for small provinces","A party with the most seats but less than half of the total seats","A government run by children","A government with no PM",B
+"Who is the current Prime Minister (per the Dec 2025 Appendix)?","Justin Trudeau","Pierre Poilievre","Mark Carney","Jagmeet Singh",C
+"Which party does Mark Carney lead?","Conservative","Liberal","NDP","Green",B
+"Who is the Official Opposition federally?","The Liberal Party","The Conservative Party","The NDP","The Bloc Québécois",B
+"Who is the leader of the Conservative Party?","Mark Carney","Pierre Poilievre","Don Davies","Elizabeth May",B
+"Who is the interim leader of the NDP?","Jagmeet Singh","Don Davies","David Eby","Teresa Wat",B
+"Which level of government is responsible for international trade and defense?","Federal","Provincial","Municipal","Regional",A
+"Which level of government is responsible for education and health care?","Federal","Provincial","Municipal","School Board",B
+"Which level of government is responsible for recycling and snow removal?","Federal","Provincial","Municipal (Local)","The King",C
+"What is the name of the legislative body in a province like BC?","House of Commons","The Senate","Legislative Assembly","The City Hall",C
+"Who is the Premier of British Columbia?","Malcolm Brodie","David Eby","Teresa Wat","Steve Kooner",B
+"Who is the King's representative in British Columbia?","The Premier","The Lieutenant Governor (Janet Austin)","The Commissioner","The Mayor",B
+"Which province has the highest population?","Quebec","British Columbia","Ontario","Alberta",C
+"What is the capital of Ontario?","Ottawa","Toronto","Hamilton","Windsor",B
+"What is the capital of Quebec?","Montreal","Quebec City","Sherbrooke","Laval",B
+"What is the capital of British Columbia?","Vancouver","Victoria","Richmond","Kelowna",B
+"What is the capital of Alberta?","Calgary","Edmonton","Lethbridge","Red Deer",B
+"What is the capital of Saskatchewan?","Saskatoon","Regina","Moose Jaw","Prince Albert",B
+"What is the capital of Manitoba?","Winnipeg","Brandon","Thompson","Churchill",A
+"What is the capital of New Brunswick?","Moncton","Saint John","Fredericton","Bathurst",C
+"What is the capital of Nova Scotia?","Halifax","Sydney","Moncton","Charlottetown",B
+"What is the capital of Prince Edward Island?","Summerside","Charlottetown","Halifax","Sydney",B
+"What is the capital of Newfoundland and Labrador?","Halifax","St. John's","St. Stephen","Grand Falls",B
+"What is the capital of Yukon?","Whitehorse","Dawson City","Yellowknife","Iqaluit",A
+"What is the capital of the Northwest Territories?","Whitehorse","Yellowknife","Iqaluit","Inuvik",B
+"What is the capital of Nunavut?","Iqaluit","Yellowknife","Pangnirtung","Rankin Inlet",A
+"Which region is known for its fertile soil and is called the 'breadbasket'?","The Atlantic Provinces","The Prairies","Central Canada","The North",B
+"Which province is the main producer of oil and gas?","British Columbia","Saskatchewan","Alberta","Newfoundland",C
+"Which province has the largest fishing industry in the Atlantic?","New Brunswick","Nova Scotia","PEI","Manitoba",B
+"Which province is the only officially bilingual province?","Quebec","New Brunswick","Ontario","Manitoba",B
+"Which province has the highest concentration of French-speakers?","Ontario","New Brunswick","Quebec","Alberta",C
+"What are the three main industries of British Columbia?","Oil, Gas, and Wheat","Forests, Fish, and Hydroelectricity","Automobiles, Steel, and Farming","Uranium, Potash, and Grain",B
+"What is the 'Peace Tower' in Ottawa?","A cell phone tower","A monument to the 1912 war","The central tower of the Parliament Buildings, completed in 1927","A library in BC",C
+"What are the 'Books of Remembrance' in the Peace Tower?","A history of Canada","Names of soldiers who died in wars since Confederation","A list of all citizens","The laws of Canada",B
+"What is the national winter sport?","Curling","Skiing","Hockey","Lacrosse",C
+"What is the national summer sport?","Soccer","Baseball","Lacrosse","Cricket",C
+"Who was the scientist who discovered insulin?","Alexander Graham Bell","Sir Frederick Banting","David Suzuki","Terry Fox",B
+"Who invented the telephone?","Thomas Edison","Alexander Graham Bell","Joseph-Armand Bombardier","John Hopps",B
+"Who invented the snowmobile?","John Hopps","Joseph-Armand Bombardier","Arthur Sicard","Mike Lazaridis",B
+"What is 'Standard Time' and who invented it?","A system by Sir Sandford Fleming to divide the world into time zones","A law about sleep","A type of clock","A military schedule",A
+"Who was the famous runner from BC who raised money for cancer?","Rick Hansen","Terry Fox","Wayne Gretzky","Donovan Bailey",B
+"Who is the wheelchair athlete who completed the 'Man in Motion' tour?","Terry Fox","Rick Hansen","Chantal Petitclerc","Lionel Conacher",B
+"Who is the 'Great One' of Canadian hockey?","Sidney Crosby","Wayne Gretzky","Bobby Orr","Maurice Richard",B
+"Who was the jazz pianist known as 'the man with eight hands'?","Oscar Peterson","Glenn Gould","Céline Dion","Bryan Adams",A
+"Who were the 'Group of Seven'?","Founders of Confederation","Landscape painters from the 1920s","A rock band","Olympic swimmers",B
+"Who was the first woman to be a doctor in Canada?","Nellie McClung","Dr. Emily Stowe","Agnes Macphail","Thérèse Casgrain",B
+"Who was the first woman elected to the House of Commons?","Nellie McClung","Agnes Macphail","Ellen Fairclough","Kim Campbell",B
+"Who was the first woman Prime Minister?","Agnes Macphail","Kim Campbell","Ellen Fairclough","Jeanne Sauvé",B
+"Which document contains the phrase 'Peace, Order, and Good Government'?","The US Constitution","The British North America Act (1867)","The Magna Carta","The Bill of Rights",B
+"What is the 'Victoria Cross'?","A religious symbol","The highest honour for bravery in the face of the enemy","A mountain in BC","A school in Richmond",B
+"Who was the first Canadian to win the Victoria Cross?","Billy Bishop","William Hall","Alexander Roberts Dunn","Sam Steele",C
+"Who was the first black person to win the Victoria Cross?","William Hall","Alexander Dunn","Sam Steele","Filip Konowal",A
+"What is 'Remembrance Day'?","July 1st","November 11th","June 24th","January 1st",B
+"What is the 'Poppy' a symbol of?","Spring","Remembrance of those who served and died in wars","The Liberal Party","Christmas",B
+"What is the national anthem of Canada?","God Save the King","O Canada","The Maple Leaf Forever","The Star Spangled Banner",B
+"Who wrote the music for 'O Canada'?","Calixa Lavallée","Sir Adolphe-Basile Routhier","Robert Stanley Weir","Lester Pearson",A
+"In what year did 'O Canada' officially become the national anthem?","1867","1914","1980","1982",C
+"What is the Royal Anthem?","O Canada","God Save the King","The British Song","The Queen's March",B
+"What does 'The Rule of Law' mean?","The PM makes all laws","No one is above the law, and laws apply equally to everyone","The police are the law","Only citizens must obey laws",B
+"What is the highest court in Canada?","The Federal Court","The Supreme Court of Canada","The Provincial Court","The Tax Court",B
+"How many judges are in the Supreme Court of Canada?","5","7","9","12",C
+"Who appoints judges to the Supreme Court?","The King","The Governor General on the advice of the Prime Minister","The People","The Chief Justice",B
+"What are the three types of police in Canada?","Federal, Provincial, and Municipal","Army, Navy, Air Force","City, Town, Village","Security, Guards, Detectives",A
+"What is the national police force?","FBI","RCMP (Royal Canadian Mounted Police)","Canadian Guard","OPP",B
+"In a federal election, can you vote if you are not on the voters list?","No","Yes, you can register at the polling station with proper ID","Only if you have a passport","Only in BC",B
+"What is a 'Constituency' or 'Riding'?","A horse track","A geographical area represented by an MP","A political party","A government building",B
+"How many Ridings are there in Canada (per current laws)?","105","308","338","450",C
+"What color is the 'Yes' side on a referendum ballot (usually)?","Red","Green","Blue","White",B
+"What is the name of the Mayor of Richmond?","Chak Au","Bill McNulty","Malcolm Brodie","Carol Day",C
+"How many City Councillors does Richmond have?","5","8","10","12",B
+"Who is the MP for Richmond Centre?","Parm Bains","Chak Au","Teresa Wat","Steve Kooner",B
+"Who is the MP for Steveston-Richmond East?","Chak Au","Parm Bains","Kelly Greene","Hon Chan",B
+"Who is the MLA for Richmond North Centre?","Teresa Wat","Hon Chan","Steve Kooner","Kelly Greene",A
+"Who is the MLA for Richmond South Centre?","Steve Kooner","Hon Chan","Teresa Wat","Kelly Greene",B
+"Who is the MLA for Richmond-Steveston?","Kelly Greene","Teresa Wat","Hon Chan","Steve Kooner",A
+"Who is the MLA for Richmond-Queensborough?","Steve Kooner","Kelly Greene","Hon Chan","Teresa Wat",A
+"Which party is currently in power in BC?","BC United","Conservative Party of BC","New Democratic Party (NDP)","Liberal Party",C
+"What is the name of the Premier of BC?","Malcolm Brodie","David Eby","Teresa Wat","Steve Kooner",B
+"Which province produces 3/4 of Canada's maple syrup?","Ontario","Quebec","New Brunswick","Nova Scotia",B
+"Which province has the 'Bay of Fundy', known for high tides?","Newfoundland","New Brunswick","PEI","Manitoba",B
+"What is the name of the newest territory (1999)?","Yukon","Nunavut","Labrador","Saskatchewan",B
+"What does 'Inuit' mean in the Inuktitut language?","Ice","The People","North","Snow",B
+"Which group of people are descendants of French and First Nations?","Inuit","Métis","Acadians","Loyalists",B
+"What was the main item of the early Canadian economy?","Gold","Timber","Beaver pelts","Wheat",C
+"Who was the first Prime Minister of Canada?","Sir John A. Macdonald","Alexander Mackenzie","Sir Wilfrid Laurier","Louis Riel",A
+"What is the population of Canada?","10 million","38 million","100 million","50 million",B
+"What is the world's longest undefended border?","Canada-Russia","Canada-USA","Canada-Mexico","BC-Alberta",B
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"What were residential schools?","Schools for high-achieving students","Schools designed to educate and assimilate Aboriginal children by prohibiting their culture","Private sports academies","Military training centers",B
+"How did Aboriginal people feel about residential schools?","They welcomed the modern education","They did not welcome them as their language and culture were prohibited","They preferred them to local schools","They were indifferent",B
+"Which Aboriginal group makes up more than half the population in the Northwest Territories and Nunavut?","First Nations","Inuit","Métis","Acadians",B
+"What is the name of the traditional clothing made by the Inuit from animal skins?","Parkas and Mukluks","Suits and ties","Saris","Kimonos",A
+"From whom are the Métis descended?","French and English fur traders and First Nations women","Viking explorers","British soldiers only","Russian traders",A
+"What language do the Métis speak?","Inuktitut","Michif","Cree","Gaelic",B
+"Which 18th-century document recognized Aboriginal rights for the first time?","The Magna Carta","The Royal Proclamation of 1763","The Quebec Act","The Constitution Act of 1982",B
+"What is 'Habeas Corpus'?","The right to bear arms","The right to challenge unlawful detention in court","The right to a lawyer's fee","The right to own property",B
+"Who is the current Chief Justice of Canada?","The Prime Minister","Richard Wagner","The King","Mary Simon",B
+"In a criminal trial, what is the 'presumption of innocence'?","Everyone is guilty until they prove they are not","Everyone is innocent until proven guilty beyond a reasonable doubt","Only citizens are innocent","The judge decides the guilt before the trial",B
+"What is the 'Rule of Law'?","The government can change laws at any time","Laws apply equally to everyone, including the government and police","Only the police are the law","Laws are only for criminals",B
+"Which level of government provides 'Legal Aid' for those who cannot afford a lawyer?","Federal","Provincial","Municipal","International",B
+"What is the 'Supreme Court of Canada' known as?","The court of first instance","The court of last appeal","The municipal court","The political court",B
+"Which court deals specifically with issues like patents, trademarks, and inter-provincial disputes?","The Family Court","The Federal Court of Canada","The Small Claims Court","The Traffic Court",B
+"How many provinces have their own provincial police force (not RCMP)?","None","Two (Ontario and Quebec)","All of them","Five",B
+"What is the main goal of the 'Order of Canada'?","To pay people money","To recognize outstanding achievement and service to the nation","To rank citizens","To organize the military",B
+"Who is the Patron of the Order of Canada?","The Prime Minister","The Governor General","The Chief Justice","The King",B
+"What does the term 'Patriation' mean in Canadian history?","Coming home from war","Bringing the Constitution home from Britain in 1982","Building a new capital","Choosing a new King",B
+"Which province did not sign the 1982 Constitution?","Ontario","Quebec","BC","Alberta",B
+"What is Canada's role in the G7 (Group of Seven)?","A group of the world's leading industrialized democracies","A group of seven provinces","A military unit","A sports league",A
+"Canada is a member of which international organizations?","UN, NATO, G7, and the Commonwealth","UN and NAFTA only","NATO and OPEC","ASEAN and EU",A
+"What is 'The Commonwealth'?","A trade group with the US","An association of 54 independent countries, mostly former British colonies","A group of Canadian provinces","A military alliance",B
+"Who is the Head of the Commonwealth?","The Prime Minister","The King","The Governor General","The UN Secretary-General",B
+"In what year did Canada adopt the current Maple Leaf flag?","1867","1914","1965","1982",C
+"What are the two official colors of Canada (declared by King George V in 1921)?","Blue and Gold","Red and White","Green and Gold","Black and White",B
+"What is the 'fleur-de-lys' a symbol of?","English heritage","French heritage and sovereignty","Aboriginal culture","Atlantic fishing",B
+"The Beaver became the official symbol of Canada in what year?","1867","1905","1975","1999",C
+"Which animal is the 'King of the Arctic' and a symbol of Canada’s North?","The Moose","The Beaver","The Polar Bear","The Caribou",C
+"What is on the reverse side of the 1-dollar coin (Loonie)?","A Loon","A Beaver","A Ship","The King",A
+"What is on the reverse side of the 2-dollar coin (Toonie)?","A Polar Bear","A Loon","A Beaver","The King",A
+"Who is the Head of the City Government in Richmond?","The Premier","The MP","The Mayor (Malcolm Brodie)","The Governor General",C
+"How many council positions exist in Richmond?","5","8","10","12",B
+"Name three current Richmond City Councillors.","Chak Au, Carol Day, Bill McNulty","David Eby, Mary Simon, Mark Carney","Justin Trudeau, Pierre Poilievre, Jagmeet Singh","Malcolm Brodie, Teresa Wat, Parm Bains",A
+"Who is the MP for Richmond Centre?","Parm Bains","Chak Au","Teresa Wat","Malcolm Brodie",B
+"Who is the MP for Steveston-Richmond East?","Chak Au","Parm Bains","Kelly Greene","Steve Kooner",B
+"Who is the MLA for Richmond North Centre?","Hon Chan","Teresa Wat","Steve Kooner","Kelly Greene",B
+"Who is the MLA for Richmond South Centre?","Teresa Wat","Hon Chan","Steve Kooner","Kelly Greene",B
+"Who is the MLA for Richmond-Queensborough?","Steve Kooner","Hon Chan","Kelly Greene","Teresa Wat",A
+"Who is the MLA for Richmond-Steveston?","Kelly Greene","Steve Kooner","Hon Chan","Teresa Wat",A
+"Which party does Teresa Wat belong to?","BC NDP","BC Conservatives","BC United","Green Party",B
+"Who is the current Premier of BC?","Malcolm Brodie","David Eby","John Horgan","Trevor Halford",B
+"Who is the interim Leader of the Opposition in BC?","David Eby","Trevor Halford","Teresa Wat","Steve Kooner",B
+"Which political party is in power federally?","Conservative Party","Liberal Party","NDP","Bloc Québécois",B
+"Who is the Prime Minister of Canada (as of Dec 8, 2025)?","Justin Trudeau","Mark Carney","Pierre Poilievre","Jagmeet Singh",B
+"Who is the Leader of the Official Opposition?","Mark Carney","Pierre Poilievre","Don Davies","Elizabeth May",B
+"Who is the interim leader of the federal NDP?","Jagmeet Singh","Don Davies","David Eby","Parm Bains",B
+"What is the title of the King's representative in the territories?","Lieutenant Governor","Commissioner","Mayor","Premier",B
+"What are the four main duties of a Canadian citizen?","Vote, pay taxes, serve on a jury, and obey the law","Drive, work, travel, and buy property","Speak English, watch hockey, join a party, and donate","Only to follow the laws",A
+"If the government loses a 'Vote of Confidence' in the House, what happens?","The MPs are all fired","The government must resign and an election is usually called","The Senate takes over","Nothing happens",B
+"What is the 'Shadow Cabinet'?","A secret group of spies","Members of the Opposition who are spokespeople for specific areas","The Prime Minister's staff","The King's guards",B
+"Who is the Speaker of the House of Commons?","The Prime Minister","An MP elected by other MPs to run the meetings","The King","The Chief Justice",B
+"What is the 'Hansard'?","The name of the PM's dog","The official record of debates in Parliament","A type of boat","A military medal",B
+"What are the three oceans that border Canada?","Atlantic, Pacific, and Indian","Atlantic, Pacific, and Arctic","Arctic, Indian, and Southern","Atlantic, Southern, and Pacific",B
+"Which province has the largest land area?","Ontario","Quebec","British Columbia","Alberta",B
+"Which province is the most populous?","Quebec","Ontario","British Columbia","Alberta",C
+"Which province is known for its rolling hills and red soil?","Nova Scotia","New Brunswick","Prince Edward Island","Manitoba",C
+"Which city is known as the 'Gateway to the West' and is a major rail center?","Edmonton","Regina","Winnipeg","Calgary",C
+"Where are the highest mountains in Canada located?","The Appalachians","The Laurentians","The Rockies and the Coast Mountains","The Laurentian Highlands",C
+"What is the name of the highest mountain in Canada?","Mount Robson","Mount Columbia","Mount Logan","Mount Everest",C
+"Where is Mount Logan located?","British Columbia","Yukon","Alberta","Northwest Territories",B
+"What is the name of the world's largest freshwater system?","The Great Bear Lake","The Great Lakes","The St. Lawrence River","The Mackenzie River",B
+"Which river is the longest in Canada?","The St. Lawrence","The Mackenzie","The Fraser","The Ottawa",B
+"What percentage of Canada's exports go to the United States?","Over 25%","Over 50%","Over 75%","95%",C
+"Which Canadian industry employs the most people?","Service industry","Manufacturing","Agriculture","Natural resources",A
+"What is 'Potash' used for?","Making fuel","Fertilizer","Construction","Computers",B
+"Which province is the main producer of potash?","Alberta","Saskatchewan","Manitoba","Ontario",B
+"What does the 'CN' in CN Tower stand for?","Canadian National","Canadian Nature","Central North","City Network",A
+"What is the name of the 1982 agreement that updated the Constitution?","The Quebec Act","The Constitution Act, 1982","The Magna Carta","The North American Accord",B
+"What is the purpose of a 'Referendum'?","To elect a new PM","To allow citizens to vote directly on a specific issue or question","To change the King","To tax the provinces",B
+"Who was the first French-Canadian Prime Minister?","Louis St. Laurent","Sir Wilfrid Laurier","Pierre Trudeau","Jean Chrétien",B
+"Who was the Prime Minister during World War I?","Sir Wilfrid Laurier","Sir Robert Borden","William Lyon Mackenzie King","John Diefenbaker",B
+"Who was the Prime Minister during World War II?","Sir Robert Borden","William Lyon Mackenzie King","Lester B. Pearson","John Diefenbaker",B
+"What is the 'Bill of Rights' (1960)?","The first federal law to protect human rights, introduced by John Diefenbaker","The Constitution","A document signed by the King","The Charter of Rights",A
+"What is the name of the day we celebrate Canada’s birthday?","Victoria Day","Canada Day (July 1)","Labour Day","Remembrance Day",B
+"What was Canada Day called before 1982?","Confederation Day","Dominion Day","Empire Day","King’s Day",B
+"Who is the current MLA for Richmond-Steveston?","Teresa Wat","Kelly Greene","Hon Chan","Steve Kooner",B
+"Which party does Steve Kooner belong to?","BC NDP","BC Conservatives","BC United","Green Party",B
+"What is the population of Richmond?","50,000","100,000","230,584","1,000,000",C
+"Who wrote the English lyrics to 'O Canada'?","Calixa Lavallée","Robert Stanley Weir","Sir Adolphe-Basile Routhier","The King",B
+"What is the 'Vimy Memorial'?","A statue in Ottawa","A monument in France honoring Canadians who fought in WWI","A school in Richmond","A park in Vancouver",B
+"In what year were Aboriginal people finally granted the right to vote in federal elections?","1867","1914","1960","1982",C
+"What is 'multiculturalism'?","The banning of foreign cultures","A policy where all citizens can keep their cultural heritage and live in harmony","One culture for everyone","A law for explorers",B
+"Which province has a large Acadian population?","Ontario","New Brunswick","Saskatchewan","BC",B
+"Who are the 'Inuit'?","Aboriginal people of the Arctic","Aboriginal people of the Prairies","French settlers","British soldiers",A
+"What is the national motto of Canada?","A Mari Usque Ad Mare","Peace and Love","Freedom and Justice","The True North",A
+"What is the 'Mace' in the House of Commons?","A weapon for the police","A symbol of the authority of the Speaker and the House","A tool for the King","A decorative plant",B
+"What happens if you are unable to vote on election day because of a physical disability?","You cannot vote","You can vote by mail or have an election officer assist you","You must wait for the next election","You must ask the PM",B
+"Who has the right to run as a candidate in a federal election?","Only politicians","Any Canadian citizen who is at least 18 years old","Only people born in Canada","Only property owners",B
+"What is a 'Political Party'?","A social event for politicians","A group of people with similar ideas about how the country should be governed","A law","A government department",B
+"What is the 'Official Language' of the province of Quebec?","English","French","Bilingual (English and French)","Spanish",B
+"What is the 'Discovery' of Insulin significant for?","Treating cancer","Treating diabetes","Treating the flu","Treating heart disease",B
+"Who is the Canadian singer who is a global icon from Quebec?","Justin Bieber","Céline Dion","Bryan Adams","Drake",B
+"What is the name of the famous waterfall on the border of Ontario and the US?","Niagara Falls","Victoria Falls","Angel Falls","Nahanni Falls",A
+"Which province is known for its world-class dinosaur fossil beds?","BC","Alberta (Badlands)","Saskatchewan","Manitoba",B
+"What is 'Hydro-Quebec' famous for?","Selling cars","Producing clean hydroelectric power","Farming","Mining gold",B
+"What is 'Anne of Green Gables'?","A Canadian law","A world-famous novel set in Prince Edward Island","A military medal","A mountain in the Yukon",B
+"What is the capital of Canada?","Toronto","Montreal","Ottawa","Vancouver",C
+"Who was the 'Father of Confederation' who was also the first PM?","Sir Wilfrid Laurier","Sir John A. Macdonald","Louis Riel","Alexander Mackenzie",B
+"What is the main goal of the Canadian justice system?","To punish everyone","To provide a fair trial for all and settle disputes peacefully","To make money for the government","To help the police only",B
+"Congratulations! You have completed 500 questions. Are you ready for your test?","Yes","No","Maybe","I need more practice",A
+
