@@ -160,91 +160,91 @@ Question,Option A,Option B,Option C,Option D,Correct Answer
 "Which province is known as the 'Land of 100,000 Lakes'?","Ontario","Manitoba","Saskatchewan","Quebec",B
 "What do you call the ceremony where a person becomes a Canadian citizen?","Citizenship Test","Citizenship Ceremony","Oath Party","Landing Day",B
 Question,Option A,Option B,Option C,Option D,Correct Answer
-"In what year did French explorers Pierre de Monts and Samuel de Champlain establish the first European settlement north of Florida? [cite: 67]","1497","1604","1608","1759",B
-"Where was the first French settlement in North America located? [cite: 67]","Quebec City","St. Croix Island (then Port-Royal)","Montreal","Louisbourg",B
-"Which First Nations did Samuel de Champlain ally with against the Iroquois? [cite: 69]","Algonquin, Montagnais, and Huron","Cree and Métis","Mohawk and Seneca","Ojibwa and Blackfoot",A
-"Who were the 'coureurs des bois'? [cite: 74]","British soldiers","French explorers and fur traders who travelled by canoe","Aboriginal leaders","Early farmers in Ontario",B
-"What was the 'Struggle for a Continent' primarily about in the 1700s? [cite: 76]","The fur trade and control of North America between France and Britain","Gold mining in the Yukon","Fishing rights in the Pacific","The border with Mexico",A
-"Who was the British general who defeated the French at the Battle of the Plains of Abraham? [cite: 77]","General Brock","General Wolfe","The Duke of Wellington","General Montcalm",B
-"In which year did the British defeat the French at Quebec City, ending France's empire in North America? [cite: 77]","1759","1774","1812","1867",A
-"What did the Quebec Act of 1774 guarantee for French-Canadians? [cite: 154]","Free land for all","The right to vote for women","Religious freedom and the ability to hold public office for Catholics","Complete independence from Britain",C
-"Following the American Revolution, how many United Empire Loyalists fled to Canada? [cite: 199]","1,000","5,000","40,000","500,000",C
-"Which two provinces were created by the Constitutional Act of 1791? [cite: 199]","Ontario and Quebec","Upper Canada and Lower Canada","New Brunswick and Nova Scotia","Manitoba and Saskatchewan",B
-"Who was the first Lieutenant-Governor of Upper Canada and founder of Toronto? [cite: 199]","Sir John A. Macdonald","John Graves Simcoe","Lord Durham","Isaac Brock",B
-"In what year did the United States launch an invasion of Canada, starting the War of 1812? [cite: 154]","1776","1812","1814","1867",B
-"Who was the military leader who died defending Canada at the Battle of Queenston Heights in 1812? [cite: 153]","General Wolfe","Major-General Sir Isaac Brock","The Duke of Wellington","Chief Tecumseh",B
-"Which Shawnee chief supported the British and died in the War of 1812? [cite: 153]","Poundmaker","Big Bear","Chief Tecumseh","Louis Riel",C
-"What strategic canal was built between 1826 and 1832 as part of a network to prevent U.S. invasions? [cite: 135]","The Suez Canal","The Rideau Canal","The Panama Canal","The Welland Canal",B
-"Who chose Bytown (now Ottawa) as the endpoint of the Rideau Canal? [cite: 135]","Sir John A. Macdonald","The Duke of Wellington","Samuel de Champlain","Queen Victoria",B
-"Who was the hero of the War of 1812 who walked 30 km to warn British troops of an American attack? [cite: 199]","Nellie McClung","Agnes Macphail","Laura Secord","Emily Stowe",C
+"In what year did French explorers Pierre de Monts and Samuel de Champlain establish the first European settlement north of Florida? ","1497","1604","1608","1759",B
+"Where was the first French settlement in North America located? ","Quebec City","St. Croix Island (then Port-Royal)","Montreal","Louisbourg",B
+"Which First Nations did Samuel de Champlain ally with against the Iroquois? ","Algonquin, Montagnais, and Huron","Cree and Métis","Mohawk and Seneca","Ojibwa and Blackfoot",A
+"Who were the 'coureurs des bois'? ","British soldiers","French explorers and fur traders who travelled by canoe","Aboriginal leaders","Early farmers in Ontario",B
+"What was the 'Struggle for a Continent' primarily about in the 1700s? ","The fur trade and control of North America between France and Britain","Gold mining in the Yukon","Fishing rights in the Pacific","The border with Mexico",A
+"Who was the British general who defeated the French at the Battle of the Plains of Abraham?","General Brock","General Wolfe","The Duke of Wellington","General Montcalm",B
+"In which year did the British defeat the French at Quebec City, ending France's empire in North America?","1759","1774","1812","1867",A
+"What did the Quebec Act of 1774 guarantee for French-Canadians? ","Free land for all","The right to vote for women","Religious freedom and the ability to hold public office for Catholics","Complete independence from Britain",C
+"Following the American Revolution, how many United Empire Loyalists fled to Canada? ","1,000","5,000","40,000","500,000",C
+"Which two provinces were created by the Constitutional Act of 1791? ","Ontario and Quebec","Upper Canada and Lower Canada","New Brunswick and Nova Scotia","Manitoba and Saskatchewan",B
+"Who was the first Lieutenant-Governor of Upper Canada and founder of Toronto? ","Sir John A. Macdonald","John Graves Simcoe","Lord Durham","Isaac Brock",B
+"In what year did the United States launch an invasion of Canada, starting the War of 1812? ","1776","1812","1814","1867",B
+"Who was the military leader who died defending Canada at the Battle of Queenston Heights in 1812?","General Wolfe","Major-General Sir Isaac Brock","The Duke of Wellington","Chief Tecumseh",B
+"Which Shawnee chief supported the British and died in the War of 1812?","Poundmaker","Big Bear","Chief Tecumseh","Louis Riel",C
+"What strategic canal was built between 1826 and 1832 as part of a network to prevent U.S. invasions?","The Suez Canal","The Rideau Canal","The Panama Canal","The Welland Canal",B
+"Who chose Bytown (now Ottawa) as the endpoint of the Rideau Canal?","Sir John A. Macdonald","The Duke of Wellington","Samuel de Champlain","Queen Victoria",B
+"Who was the hero of the War of 1812 who walked 30 km to warn British troops of an American attack? ","Nellie McClung","Agnes Macphail","Laura Secord","Emily Stowe",C
 "What was the result of the Rebellions of 1837-38 in Upper and Lower Canada? [cite: 182-184]","Canada became a republic","The rebels won and took control","The rebels were defeated, but it led to the recommendation for responsible government","Britain left Canada",C
-"Who was the English reformer sent to Canada to report on the Rebellions of 1837-38? [cite: 184]","Lord Elgin","Lord Durham","Lord Kitchener","Robert Baldwin",B
-"Which was the first British North American colony to attain full responsible government? [cite: 203]","Upper Canada","Lower Canada","Nova Scotia","New Brunswick",C
-"Who were the joint leaders of the first responsible government in the United Province of Canada? [cite: 202]","Macdonald and Cartier","La Fontaine and Baldwin","Laurier and Borden","King and Byng",B
-"In what year did the Dominion of Canada officially come into existence? [cite: 185]","1812","1867","1905","1999",B
-"Which four provinces formed the original Confederation in 1867? [cite: 209]","Ontario, Quebec, BC, and PEI","Ontario, Quebec, Nova Scotia, and New Brunswick","Manitoba, Ontario, Quebec, and Nova Scotia","Alberta, Saskatchewan, BC, and Ontario",B
-"Who suggested the name 'Dominion of Canada' in 1864? [cite: 194]","Sir John A. Macdonald","Sir Leonard Tilley","Sir George-Étienne Cartier","Lord Elgin",B
-"What was the source of inspiration for the title 'Dominion of Canada'? [cite: 194]","A poem by Shakespeare","A phrase from the Bible (Psalm 72)","A French military term","The Magna Carta",B
-"Who was the key architect of Confederation from Quebec? [cite: 192]","Louis Riel","Sir George-Étienne Cartier","Sir Wilfrid Laurier","Thérèse Casgrain",B
-"Which province joined Confederation in 1870? [cite: 185]","British Columbia","Prince Edward Island","Manitoba","Newfoundland",C
-"In which year did British Columbia join Confederation? [cite: 185]","1867","1871","1873","1905",B
-"Why did British Columbia agree to join Canada in 1871? [cite: 193]","They were promised a transcontinental railway","They wanted to go to war with the US","They needed more fur traders","They wanted to change their capital city",A
-"When did Prince Edward Island join Confederation? [cite: 185]","1870","1873","1880","1905",B
-"In 1880, what territory was transferred to Canada from Britain? [cite: 185]","Alaska","The Arctic Islands","Greenland","Newfoundland",B
-"In what year were Alberta and Saskatchewan created as provinces? [cite: 185]","1867","1885","1905","1949",C
-"Which was the last province to join Confederation in 1949? [cite: 185]","Manitoba","Nunavut","Newfoundland and Labrador","Saskatchewan",C
-"What is the newest territory in Canada, created in 1999? [cite: 185]","Yukon","Northwest Territories","Nunavut","Labrador",C
+"Who was the English reformer sent to Canada to report on the Rebellions of 1837-38?","Lord Elgin","Lord Durham","Lord Kitchener","Robert Baldwin",B
+"Which was the first British North American colony to attain full responsible government?","Upper Canada","Lower Canada","Nova Scotia","New Brunswick",C
+"Who were the joint leaders of the first responsible government in the United Province of Canada?","Macdonald and Cartier","La Fontaine and Baldwin","Laurier and Borden","King and Byng",B
+"In what year did the Dominion of Canada officially come into existence?","1812","1867","1905","1999",B
+"Which four provinces formed the original Confederation in 1867?","Ontario, Quebec, BC, and PEI","Ontario, Quebec, Nova Scotia, and New Brunswick","Manitoba, Ontario, Quebec, and Nova Scotia","Alberta, Saskatchewan, BC, and Ontario",B
+"Who suggested the name 'Dominion of Canada' in 1864?","Sir John A. Macdonald","Sir Leonard Tilley","Sir George-Étienne Cartier","Lord Elgin",B
+"What was the source of inspiration for the title 'Dominion of Canada'?","A poem by Shakespeare","A phrase from the Bible (Psalm 72)","A French military term","The Magna Carta",B
+"Who was the key architect of Confederation from Quebec?","Louis Riel","Sir George-Étienne Cartier","Sir Wilfrid Laurier","Thérèse Casgrain",B
+"Which province joined Confederation in 1870?","British Columbia","Prince Edward Island","Manitoba","Newfoundland",C
+"In which year did British Columbia join Confederation?","1867","1871","1873","1905",B
+"Why did British Columbia agree to join Canada in 1871?","They were promised a transcontinental railway","They wanted to go to war with the US","They needed more fur traders","They wanted to change their capital city",A
+"When did Prince Edward Island join Confederation?","1870","1873","1880","1905",B
+"In 1880, what territory was transferred to Canada from Britain?","Alaska","The Arctic Islands","Greenland","Newfoundland",B
+"In what year were Alberta and Saskatchewan created as provinces?","1867","1885","1905","1949",C
+"Which was the last province to join Confederation in 1949?","Manitoba","Nunavut","Newfoundland and Labrador","Saskatchewan",C
+"What is the newest territory in Canada, created in 1999?","Yukon","Northwest Territories","Nunavut","Labrador",C
 "Who was the leader of the Métis and 'Father of Manitoba'?","Sir John A. Macdonald","Louis Riel","Sir Sam Steele","Gabriel Dumont",B
-"Who was the founder of the women's suffrage movement in Canada? [cite: 284]","Nellie McClung","Dr. Emily Stowe","Agnes Macphail","Thérèse Casgrain",B
-"Which province was the first to grant women the right to vote in 1916? [cite: 285]","Ontario","Quebec","Manitoba","British Columbia",C
-"In what year were most Canadian women over 21 granted the right to vote in federal elections? [cite: 287]","1867","1914","1918","1940",C
-"Who was the first woman elected to the House of Commons (1921)? [cite: 288]","Agnes Macphail","Ellen Fairclough","Cairine Wilson","Kim Campbell",A
-"In 1940, which province finally granted women the right to vote? [cite: 289]","New Brunswick","Quebec","Alberta","Nova Scotia",B
+"Who was the founder of the women's suffrage movement in Canada?","Nellie McClung","Dr. Emily Stowe","Agnes Macphail","Thérèse Casgrain",B
+"Which province was the first to grant women the right to vote in 1916?","Ontario","Quebec","Manitoba","British Columbia",C
+"In what year were most Canadian women over 21 granted the right to vote in federal elections?","1867","1914","1918","1940",C
+"Who was the first woman elected to the House of Commons (1921)?","Agnes Macphail","Ellen Fairclough","Cairine Wilson","Kim Campbell",A
+"In 1940, which province finally granted women the right to vote?","New Brunswick","Quebec","Alberta","Nova Scotia",B
 "What was the 'head tax' introduced in 1885? [cite: 277-280]","A tax on all citizens","A race-based entry fee for Chinese immigrants","A tax for owning cattle","A tax on explorers",B
 "How many Canadians served in the First World War?","10,000","60,000","More than 600,000","1 million",C
 "The 'Battle of Vimy Ridge' in April 1917 is significant because:","It was the end of the war","It was a major victory where the Canadian Corps secured its reputation for valour","It was fought in Canada","The US joined the war there",B
-"Who was the first Canadian Prime Minister of French-Canadian heritage? [cite: 279]","Sir Wilfrid Laurier","Sir Louis-Hippolyte La Fontaine","Louis St. Laurent","Pierre Trudeau",A
-"What is the name of the Canadian national motto, 'A Mari Usque Ad Mare'? [cite: 361]","From Sea to Sea","Land of the Free","Unity through Strength","From North to South",A
-"Which three oceans line Canada's frontiers? [cite: 392]","Atlantic, Indian, and Pacific","Atlantic, Pacific, and Arctic","Arctic, Southern, and Atlantic","Pacific, Indian, and Arctic",B
-"Canada is the nth largest country on earth. [cite: 391]","First","Second","Third","Fifth",B
-"What is the total land area of Canada? [cite: 391]","1 million square km","5 million square km","10 million square km","20 million square km",C
+"Who was the first Canadian Prime Minister of French-Canadian heritage?","Sir Wilfrid Laurier","Sir Louis-Hippolyte La Fontaine","Louis St. Laurent","Pierre Trudeau",A
+"What is the name of the Canadian national motto, 'A Mari Usque Ad Mare'?","From Sea to Sea","Land of the Free","Unity through Strength","From North to South",A
+"Which three oceans line Canada's frontiers?","Atlantic, Indian, and Pacific","Atlantic, Pacific, and Arctic","Arctic, Southern, and Atlantic","Pacific, Indian, and Arctic",B
+"Canada is the nth largest country on earth.","First","Second","Third","Fifth",B
+"What is the total land area of Canada?","1 million square km","5 million square km","10 million square km","20 million square km",C
 "Where does the name 'Canada' come from?","The French word for village","The Huron-Iroquois word 'Kanata' meaning village","The Inuit word for ice","The English word for woods",B
-"Who is the current Governor General of Canada? [cite: 2141]","Julie Payette","David Johnston","Mary Simon","Justin Trudeau",C
-"Who is the current Prime Minister of Canada (per the 2025 Appendix)? [cite: 2141]","Justin Trudeau","Pierre Poilievre","Mark Carney","Don Davies",C
-"Which political party is the Official Opposition federally? [cite: 2141]","Liberal Party","Conservative Party","NDP","Bloc Québécois",B
-"Who is the leader of the Conservative Party? [cite: 2141]","Mark Carney","Pierre Poilievre","Elizabeth May","Yves-François Blanchet",B
-"Who is the interim leader of the federal NDP? [cite: 2141]","Jagmeet Singh","Don Davies","Rachel Notley","David Eby",B
-"Who is the Member of Parliament for Richmond Centre? [cite: 2141]","Parm Bains","Chak Au","Teresa Wat","Malcolm Brodie",B
-"Who is the Member of Parliament for Steveston-Richmond East? [cite: 2141]","Chak Au","Parm Bains","Kelly Greene","Malcolm Brodie",B
-"What is the capital city of British Columbia? [cite: 390]","Vancouver","Richmond","Victoria","Kelowna",C
-"Who is the current Premier of British Columbia? [cite: 2141]","Malcolm Brodie","David Eby","Teresa Wat","Steve Kooner",B
-"Which political party is in power in British Columbia? [cite: 2141]","BC United","Conservative Party of BC","New Democratic Party (NDP)","Liberal Party",C
-"Who is the Mayor of Richmond? [cite: 2141]","Chak Au","Bill McNulty","Malcolm Brodie","Carol Day",C
-"Which area of Canada is known as 'Central Canada'? [cite: 390]","Alberta and Saskatchewan","Ontario and Quebec","The Maritimes","The North",B
-"Which province has the largest population? [cite: 390]","Quebec","British Columbia","Ontario","Alberta",C
-"Which region is known as the 'Atlantic Provinces'? [cite: 390]","NB, NS, PEI, and NFLD","Ontario and Quebec","BC, AB, SK, and MB","Yukon and NWT",A
-"Which province is the only officially bilingual province? [cite: 390]","Quebec","Ontario","New Brunswick","Manitoba",C
-"What are the three Prairie Provinces? [cite: 390]","BC, AB, and SK","AB, SK, and MB","MB, ON, and QC","NS, NB, and PEI",B
-"What is the capital of Ontario? [cite: 390]","Ottawa","Toronto","Hamilton","Kingston",B
-"What is the capital of Quebec? [cite: 390]","Montreal","Quebec City","Sherbrooke","Laval",B
-"What is the capital of Manitoba? [cite: 390]","Regina","Edmonton","Winnipeg","Brandon",C
-"What is the capital of Saskatchewan? [cite: 390]","Saskatoon","Regina","Moose Jaw","Prince Albert",B
-"What is the capital of Alberta? [cite: 390]","Calgary","Edmonton","Lethbridge","Red Deer",B
-"What is the capital of Newfoundland and Labrador? [cite: 390]","Halifax","Fredericton","St. John's","Charlottetown",C
-"What is the capital of Nova Scotia? [cite: 390]","St. John's","Halifax","Sydney","Moncton",B
-"What is the capital of New Brunswick? [cite: 390]","Moncton","Saint John","Fredericton","Bathurst",C
-"What is the capital of Prince Edward Island? [cite: 390]","Summerside","Charlottetown","Halifax","Sydney",B
-"What is the capital of Yukon? [cite: 390]","Yellowknife","Whitehorse","Iqaluit","Dawson City",B
-"What is the capital of the Northwest Territories? [cite: 390]","Whitehorse","Yellowknife","Iqaluit","Inuvik",B
-"What is the capital of Nunavut? [cite: 390]","Iqaluit","Pangnirtung","Rankin Inlet","Yellowknife",A
+"Who is the current Governor General of Canada?","Julie Payette","David Johnston","Mary Simon","Justin Trudeau",C
+"Who is the current Prime Minister of Canada (per the 2025 Appendix)?","Justin Trudeau","Pierre Poilievre","Mark Carney","Don Davies",C
+"Which political party is the Official Opposition federally?","Liberal Party","Conservative Party","NDP","Bloc Québécois",B
+"Who is the leader of the Conservative Party?","Mark Carney","Pierre Poilievre","Elizabeth May","Yves-François Blanchet",B
+"Who is the interim leader of the federal NDP?","Jagmeet Singh","Don Davies","Rachel Notley","David Eby",B
+"Who is the Member of Parliament for Richmond Centre?","Parm Bains","Chak Au","Teresa Wat","Malcolm Brodie",B
+"Who is the Member of Parliament for Steveston-Richmond East?","Chak Au","Parm Bains","Kelly Greene","Malcolm Brodie",B
+"What is the capital city of British Columbia?","Vancouver","Richmond","Victoria","Kelowna",C
+"Who is the current Premier of British Columbia?","Malcolm Brodie","David Eby","Teresa Wat","Steve Kooner",B
+"Which political party is in power in British Columbia?","BC United","Conservative Party of BC","New Democratic Party (NDP)","Liberal Party",C
+"Who is the Mayor of Richmond?","Chak Au","Bill McNulty","Malcolm Brodie","Carol Day",C
+"Which area of Canada is known as 'Central Canada'?","Alberta and Saskatchewan","Ontario and Quebec","The Maritimes","The North",B
+"Which province has the largest population?","Quebec","British Columbia","Ontario","Alberta",C
+"Which region is known as the 'Atlantic Provinces'?","NB, NS, PEI, and NFLD","Ontario and Quebec","BC, AB, SK, and MB","Yukon and NWT",A
+"Which province is the only officially bilingual province?","Quebec","Ontario","New Brunswick","Manitoba",C
+"What are the three Prairie Provinces?","BC, AB, and SK","AB, SK, and MB","MB, ON, and QC","NS, NB, and PEI",B
+"What is the capital of Ontario?","Ottawa","Toronto","Hamilton","Kingston",B
+"What is the capital of Quebec?","Montreal","Quebec City","Sherbrooke","Laval",B
+"What is the capital of Manitoba?","Regina","Edmonton","Winnipeg","Brandon",C
+"What is the capital of Saskatchewan?","Saskatoon","Regina","Moose Jaw","Prince Albert",B
+"What is the capital of Alberta?","Calgary","Edmonton","Lethbridge","Red Deer",B
+"What is the capital of Newfoundland and Labrador?","Halifax","Fredericton","St. John's","Charlottetown",C
+"What is the capital of Nova Scotia?","St. John's","Halifax","Sydney","Moncton",B
+"What is the capital of New Brunswick?","Moncton","Saint John","Fredericton","Bathurst",C
+"What is the capital of Prince Edward Island?","Summerside","Charlottetown","Halifax","Sydney",B
+"What is the capital of Yukon?","Yellowknife","Whitehorse","Iqaluit","Dawson City",B
+"What is the capital of the Northwest Territories?","Whitehorse","Yellowknife","Iqaluit","Inuvik",B
+"What is the capital of Nunavut?","Iqaluit","Pangnirtung","Rankin Inlet","Yellowknife",A
 "Which province is known for its fertile farmland and as the 'breadbasket' of the world? [cite: 48, 391]","Ontario","British Columbia","Saskatchewan","New Brunswick",C
-"Which province is the main producer of oil and gas in Canada? [cite: 391]","Quebec","Saskatchewan","Alberta","Manitoba",C
-"Which ocean is to the east of Canada? [cite: 392]","Pacific","Atlantic","Arctic","Indian",B
-"Which ocean is to the north of Canada? [cite: 392]","Atlantic","Pacific","Arctic","Southern",C
-"The fleur-de-lys was a symbol of which royalty? [cite: 358]","British","French","Spanish","Roman",B
-"When did Quebec adopt its own flag, based on the Cross and the fleur-de-lys? [cite: 360]","1867","1914","1948","1982",C
-"What symbols are contained in the Canadian coat of arms? [cite: 362]","Only the Maple Leaf","Symbols of England, France, Scotland, and Ireland plus maple leaves","A beaver and a moose","The Peace Tower and the Flag",B
-"Where can the Canadian coat of arms be seen today? [cite: 363]","Only on the flag","On dollar bills, government documents, and public buildings","Only in museums","On the King's crown",B
+"Which province is the main producer of oil and gas in Canada?","Quebec","Saskatchewan","Alberta","Manitoba",C
+"Which ocean is to the east of Canada?","Pacific","Atlantic","Arctic","Indian",B
+"Which ocean is to the north of Canada?","Atlantic","Pacific","Arctic","Southern",C
+"The fleur-de-lys was a symbol of which royalty?","British","French","Spanish","Roman",B
+"When did Quebec adopt its own flag, based on the Cross and the fleur-de-lys?","1867","1914","1948","1982",C
+"What symbols are contained in the Canadian coat of arms?","Only the Maple Leaf","Symbols of England, France, Scotland, and Ireland plus maple leaves","A beaver and a moose","The Peace Tower and the Flag",B
+"Where can the Canadian coat of arms be seen today?","Only on the flag","On dollar bills, government documents, and public buildings","Only in museums","On the King's crown",B
 "What is the name of the tower in the centre of the Parliament Buildings in Ottawa?","The CN Tower","The Clock Tower","The Peace Tower","The Victory Tower",C
 "The Peace Tower was completed in 1927 to commemorate what?","Confederation","The end of the War of 1812","The First World War","The visit of the King",C
 "What is the official name of the '10-cent' coin?","The Nickel","The Dime","The Quarter","The Loonie",B
@@ -252,13 +252,13 @@ Question,Option A,Option B,Option C,Option D,Correct Answer
 "Which animal is shown on the 25-cent coin (quarter)?","The Beaver","The Caribou","The Moose","The Polar Bear",B
 "What is on the 1-dollar coin?","A Beaver","A Loon","A Polar Bear","A Maple Leaf",B
 "What is on the 2-dollar coin?","A Beaver","A Loon","A Polar Bear","A Maple Leaf",C
-"Who is the current MLA for Richmond North Centre? [cite: 2141]","Teresa Wat","Hon Chan","Steve Kooner","Kelly Greene",A
-"Who is the current MLA for Richmond South Centre? [cite: 2141]","Steve Kooner","Hon Chan","Teresa Wat","Kelly Greene",B
-"Who is the current MLA for Richmond-Steveston? [cite: 2141]","Kelly Greene","Teresa Wat","Hon Chan","Steve Kooner",A
-"Who is the current MLA for Richmond-Queensborough? [cite: 2141]","Steve Kooner","Kelly Greene","Hon Chan","Teresa Wat",A
-"What does the term 'Responsible Government' mean? [cite: 197]","The government is responsible for the budget","The ministers of the Crown must have the support of a majority of elected representatives to govern","The King is responsible for all laws","The people are responsible for the environment",B
+"Who is the current MLA for Richmond North Centre?","Teresa Wat","Hon Chan","Steve Kooner","Kelly Greene",A
+"Who is the current MLA for Richmond South Centre?","Steve Kooner","Hon Chan","Teresa Wat","Kelly Greene",B
+"Who is the current MLA for Richmond-Steveston?","Kelly Greene","Teresa Wat","Hon Chan","Steve Kooner",A
+"Who is the current MLA for Richmond-Queensborough?","Steve Kooner","Kelly Greene","Hon Chan","Teresa Wat",A
+"What does the term 'Responsible Government' mean?","The government is responsible for the budget","The ministers of the Crown must have the support of a majority of elected representatives to govern","The King is responsible for all laws","The people are responsible for the environment",B
 "Who was the first Canadian to be awarded the Victoria Cross?","Billy Bishop","William Hall","Alexander Roberts Dunn","Sam Steele",C
-"Which province has the highest concentration of French-speakers? [cite: 54]","Ontario","New Brunswick","Quebec","Manitoba",C
+"Which province has the highest concentration of French-speakers?","Ontario","New Brunswick","Quebec","Manitoba",C
 "The Peace Tower contains a 'Books of Remembrance'. What are these?","A list of all citizens","A list of the names of soldiers who died in wars","A history of the Parliament","The Laws of Canada",B
 Question,Option A,Option B,Option C,Option D,Correct Answer
 "In the Second World War, in which year did the D-Day invasion of Normandy take place?","1914","1939","1944","1945",C
