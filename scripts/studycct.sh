@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-INPUT_FILE="citizen.txt"
+INPUT_FILE="/home/pi/Music/pimusic/scripts/citizen.txt"
 TIMER=10
 
 # Function to speak using Festival (use CMU voice + SayText)
