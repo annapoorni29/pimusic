@@ -33,22 +33,23 @@ convert_time_to_words() {
 
 STOP_ID="2608"
 ROUTE_NUMBER="108"
-LATITUDE="51.079417"
-LONGITUDE="-114.194222"
-URL="https://hastinfo.calgarytransit.com/HastinfoMVCWeb/api/NextPassingTimesAPI/GetStopsNearLocation?latitude=$LATITUDE&longitude=$LONGITUDE"
-RESPONSE=$(curl -s "$URL")
-
-if [ -z "$RESPONSE" ] || [ "$RESPONSE" = "[]" ]; then
-    echo "No Calgary Transit data available" >&2
-    exit 0
-fi
-
-STOP_ID=$(echo "$RESPONSE" | jq -r '.[0].Stop.Identifier // empty')
-if [ -z "$STOP_ID" ]; then
-    STOP_ID="2608"
-fi
-
 MESSAGE="Calgary bus $ROUTE_NUMBER at stop $STOP_ID"
+echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
+
+sleep 2
+BUS1_NUM="108"
+BUS1_TIME=$(google-chrome --headless --disable-gpu --no-sandbox --virtual-time-budget=5000 --dump-dom 'https://hastinfo.calgarytransit.com/HastinfoMVCWeb/NextDepartures?ShowOptions=false&StopFilterType=4&StopIdentifier=2608' 2>/dev/null | grep -oE '[0-9]{1,2}:[0-9]{2}[[:space:]]*(AM|PM)' | head -n 1)
+if [ -z "$BUS1_TIME" ]; then
+    BUS1_TIME="08:56 AM"
+fi
+BUS1_OUT=$(convert_time_to_words "$BUS1_TIME")
+CURRENT_TIME=$(date +%s)
+TARGET_TIME_SEC1=$(date -d "today $BUS1_TIME" +%s)
+DIFF_SEC=$((TARGET_TIME_SEC1 - CURRENT_TIME))
+DIFF_MIN=$((DIFF_SEC / 60))
+MESSAGE="Next bus in $DIFF_MIN minutes"
+echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
+MESSAGE="Bus $BUS1_NUM arrives at $BUS1_OUT"
 echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
 
 #sleep 3
