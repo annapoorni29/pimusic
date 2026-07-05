@@ -38,7 +38,7 @@ echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
 
 sleep 2
 BUS1_NUM="108"
-BUS1_TIME=$(google-chrome --headless --disable-gpu --no-sandbox --virtual-time-budget=5000 --dump-dom 'https://hastinfo.calgarytransit.com/HastinfoMVCWeb/NextDepartures?ShowOptions=false&StopFilterType=4&StopIdentifier=2608' 2>/dev/null | grep -oE 'NextPassingTimesTime[^>]*>[0-9]{1,2}:[0-9]{2}[[:space:]]*(AM|PM)' | grep -oE '[0-9]{1,2}:[0-9]{2}[[:space:]]*(AM|PM)' | head -n 1)
+BUS1_TIME=$(curl -s "https://hastinfo.calgarytransit.com/HastinfoMVCWeb/NextPassingTimes/RequestNextPassingTimes?suggestionInputIdentifier=$STOP_ID&suggestionInputType=Stop&stopInputIdentifier=$STOP_ID&mustBeAccessible=false" | grep -oE '\\u003e[0-9]{1,2}:[0-9]{2}[[:space:]]*(AM|PM)\\u003c' | grep -oE '[0-9]{1,2}:[0-9]{2}[[:space:]]*(AM|PM)' | head -n 1)
 if [ -z "$BUS1_TIME" ]; then
     BUS1_TIME="08:56 AM"
 fi
