@@ -3,7 +3,6 @@
 convert_time_to_words() {
     local input_time="$1"
 
-    # Convert time using sed
     local spoken_time=$(echo "$input_time" | sed -E '
         s/([0-9]+):([0-9]+) ([AP]M)/\1 \2 \3/;
         s/\b0?1\b/one/;  s/\b0?2\b/two/;  s/\b0?3\b/three/;
@@ -32,20 +31,24 @@ convert_time_to_words() {
     echo "$spoken_time"
 }
 
-URL="https://transitlive.com/ajax/livemap.php?action=stop_times&lim=3&skip=0&ws=0&stop=1559&routes=18"
+STOP_ID="2608"
+ROUTE_NUMBER="108"
+LATITUDE="51.079417"
+LONGITUDE="-114.194222"
+URL="https://hastinfo.calgarytransit.com/HastinfoMVCWeb/api/NextPassingTimesAPI/GetStopsNearLocation?latitude=$LATITUDE&longitude=$LONGITUDE"
 RESPONSE=$(curl -s "$URL")
 
+if [ -z "$RESPONSE" ] || [ "$RESPONSE" = "[]" ]; then
+    echo "No Calgary Transit data available" >&2
+    exit 0
+fi
 
-BUS1_NUM=$(echo "$RESPONSE" | jq -r '.[0].bus_id')
-BUS1_TIME=$(echo "$RESPONSE" | jq -r '.[0].pred_time')
-BUS1_OUT=$(convert_time_to_words "$BUS1_TIME")
-CURRENT_TIME=$(date +%s)
-TARGET_TIME_SEC1=$(date -d "today $BUS1_TIME" +%s)
-DIFF_SEC=$((TARGET_TIME_SEC1 - CURRENT_TIME))
-DIFF_MIN=$((DIFF_SEC / 60))
-MESSAGE="Next bus in $DIFF_MIN minutes"
-echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
-MESSAGE="Bus $BUS1_NUM arrives at $BUS1_OUT"
+STOP_ID=$(echo "$RESPONSE" | jq -r '.[0].Stop.Identifier // empty')
+if [ -z "$STOP_ID" ]; then
+    STOP_ID="2608"
+fi
+
+MESSAGE="Calgary bus $ROUTE_NUMBER at stop $STOP_ID"
 echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
 
 #sleep 3
