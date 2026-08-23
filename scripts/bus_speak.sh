@@ -31,6 +31,13 @@ convert_time_to_words() {
     echo "$spoken_time"
 }
 
+# at the top of bus_speak.sh, before the festival calls
+curl -s -X POST http://localhost:6680/mopidy/rpc -H "Content-Type: application/json" \
+  -d '{"jsonrpc": "2.0", "id": 1, "method": "core.playback.pause"}' > /dev/null
+
+sleep 3
+
+
 STOP_ID="2608"
 ROUTE_NUMBER="108"
 MESSAGE="Calgary bus $ROUTE_NUMBER at stop $STOP_ID"
@@ -51,6 +58,10 @@ MESSAGE="Next bus in $DIFF_MIN minutes"
 echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
 MESSAGE="Bus $BUS1_NUM arrives at $BUS1_OUT"
 echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
+sleep 3
+# at the end, resume
+curl -s -X POST http://localhost:6680/mopidy/rpc -H "Content-Type: application/json" \
+  -d '{"jsonrpc": "2.0", "id": 1, "method": "core.playback.resume"}' > /dev/null
 
 #sleep 3
 #BUS2_NUM=$(echo "$RESPONSE" | jq -r '.[1].bus_id')
