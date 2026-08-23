@@ -32,6 +32,9 @@ convert_time_to_words() {
 }
 
 # at the top of bus_speak.sh, before the festival calls
+WAS_PLAYING=$(curl -s -X POST http://localhost:6680/mopidy/rpc -H "Content-Type: application/json" \
+  -d '{"jsonrpc": "2.0", "id": 1, "method": "core.playback.get_state"}' | jq -r '.result')
+
 curl -s -X POST http://localhost:6680/mopidy/rpc -H "Content-Type: application/json" \
   -d '{"jsonrpc": "2.0", "id": 1, "method": "core.playback.pause"}' > /dev/null
 
@@ -59,9 +62,11 @@ echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
 MESSAGE="Bus $BUS1_NUM arrives at $BUS1_OUT"
 echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
 sleep 3
-# at the end, resume
-curl -s -X POST http://localhost:6680/mopidy/rpc -H "Content-Type: application/json" \
-  -d '{"jsonrpc": "2.0", "id": 1, "method": "core.playback.resume"}' > /dev/null
+# at the end, only resume if it was playing before this script started
+if [ "$WAS_PLAYING" = "playing" ]; then
+    curl -s -X POST http://localhost:6680/mopidy/rpc -H "Content-Type: application/json" \
+      -d '{"jsonrpc": "2.0", "id": 1, "method": "core.playback.resume"}' > /dev/null
+fi
 
 #sleep 3
 #BUS2_NUM=$(echo "$RESPONSE" | jq -r '.[1].bus_id')
