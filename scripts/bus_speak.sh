@@ -41,7 +41,7 @@ curl -s -X POST http://localhost:6680/mopidy/rpc -H "Content-Type: application/j
 sleep 3
 
 
-STOP_ID="2608"
+STOP_ID="2606"
 ROUTE_NUMBER="108"
 MESSAGE="Calgary bus $ROUTE_NUMBER at stop $STOP_ID"
 echo "(voice_cmu_us_slt_arctic_hts) (SayText \"$MESSAGE\")" | festival
