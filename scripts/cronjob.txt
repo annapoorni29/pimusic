@@ -25,16 +25,23 @@
 #30 17 * * * /home/pi/Music/pimusic/scripts/evening_playlist.sh >> /home/pi/Music/cronerror.log
 #30 22 * * * /home/pi/Music/pimusic/scripts/vaishu.sh > /home/pi/Music/cronerror.log
 01 05 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py wakeup.m3u
-10 07 * * 1,2,3,5,6,7 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py exam.m3u 
+10 08 * * 1,2,3,5,6,7 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py exam.m3u 
 45 07 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py morning.m3u
 30 17 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py
 30 22 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py vaishu.m3u
 
-# Run every 5 minutes from 7:00 AM to 7:15 AM, weekdays (Mon-Fri)
-0,5,10,15 7 * * 1-5 /home/pi/Music/pimusic/scripts/bus_speak.sh
+# Run every 5 minutes from 7:00 AM to 7:25 AM, weekdays (Mon-Fri)
+30,35,40,45,50,55 8 * * * /home/pi/Music/pimusic/scripts/bus_speak.sh
 
-# Run every 2 minutes from 7:15 AM to 7:23 AM, weekdays (Mon-Fri)
-15,17,19,21,23 7 * * 1-5 /home/pi/Music/pimusic/scripts/bus_speak.sh
+# Run every 2 minutes from 8:56 AM to 8:58 AM, weekdays (Mon-Fri)
+56,58 8 * * * /home/pi/Music/pimusic/scripts/bus_speak.sh
 
-# Run every minute from 7:23 AM to 7:27 AM, weekdays (Mon-Fri)
-23-27 7 * * 1-5 /home/pi/Music/pimusic/scripts/bus_speak.sh
+# Run 9:00 AM, 9:02 AM on weekdays (Mon-Fri)
+00,02 9 * * * /home/pi/Music/pimusic/scripts/bus_speak.sh
+
+# Lalitha Sahasranamam from morning 9:30 AM to 5:00 PM
+17 10,13,15 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py lalitha.m3u
+
+#0,3,6,9 9,12,16,21 * * 0,6 /bin/bash /home/pi/Music/pimusic/scripts/studycct.sh
+#0,3,6,9,12,15,18 16 * * 1-5 /bin/bash /home/pi/Music/pimusic/scripts/studycct.sh
+#0,3,6,9,12,15,18 21 * * 1-5 /bin/bash /home/pi/Music/pimusic/scripts/studycct.sh

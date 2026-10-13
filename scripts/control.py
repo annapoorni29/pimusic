@@ -5,6 +5,11 @@ import json
 import sys
 import time
 import datetime
+import subprocess
+import os
+
+# path differs between Pi OS releases (/bin vs /usr/bin); must match the sudoers rule
+SYSTEMCTL = "/usr/bin/systemctl" if os.path.exists("/usr/bin/systemctl") else "/bin/systemctl"
 
 post_url = 'http://127.0.0.1:6680/mopidy/rpc';
 headers = {'Content-type': 'application/json'}
@@ -128,8 +133,32 @@ def get_tlid(uri):
     return response.json()['result'][0]['tlid']
 
 
+def mopidy_is_up():
+    try:
+        r = requests.post(post_url, data = json.dumps({"method": "core.get_version", "jsonrpc": "2.0", "id": 1}), headers=headers, timeout=5)
+        return r.status_code == 200
+    except requests.exceptions.RequestException:
+        return False
+
+def ensure_mopidy_running(wait_seconds=60):
+    if mopidy_is_up():
+        return
+    print("Mopidy not responding, restarting service")
+    # needs a NOPASSWD sudoers rule for this exact command (see sudoers note)
+    subprocess.call(["sudo", "-n", SYSTEMCTL, "restart", "mopidy"])
+    deadline = time.time() + wait_seconds
+    while time.time() < deadline:
+        if mopidy_is_up():
+            print("Mopidy is back up")
+            return
+        time.sleep(2)
+    print("Mopidy still down after restart, giving up")
+    sys.exit(1)
+
+
 if __name__ == "__main__":
     #print(sys.argv[1]);
+    ensure_mopidy_running()
     clear_playlist_queue();
     print(len(sys.argv))
     dow = datetime.datetime.today().weekday() + 1
