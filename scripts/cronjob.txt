@@ -24,20 +24,37 @@
 #45 06 * * * /home/pi/Music/pimusic/scripts/morning_playlist.sh >> /home/pi/Music/cronerror.log
 #30 17 * * * /home/pi/Music/pimusic/scripts/evening_playlist.sh >> /home/pi/Music/cronerror.log
 #30 22 * * * /home/pi/Music/pimusic/scripts/vaishu.sh > /home/pi/Music/cronerror.log
-01 05 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py wakeup.m3u
-10 08 * * 1,2,3,5,6,7 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py exam.m3u 
-00 06 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py morning.m3u
+# Class start: Mon 11:00, Tue-Fri 08:00 (no class Sat/Sun). Cron dow: 0=Sun 1=Mon ... 6=Sat.
+# Jobs must not overlap: control.py clears the queue, so a later job cuts off an earlier one.
+# Lengths: wakeup 20.6 min, morning 115.6 min, exam (Ambika+Hayagriva) 16.3 min.
+# Ambika/exam must finish at least 60 min before class.
+
+# Tue-Fri: wakeup 04:15-04:36, morning 04:37-06:33, exam 06:40-06:56 (class 08:00)
+15 4 * * 2-5 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py wakeup.m3u
+37 4 * * 2-5 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py morning.m3u
+40 6 * * 2-5 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py exam.m3u
+# Mon: wakeup 05:01-05:22, morning 06:00-07:56, exam 09:40-09:56 (class 11:00)
+01 5 * * 1 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py wakeup.m3u
+00 6 * * 1 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py morning.m3u
+40 9 * * 1 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py exam.m3u
+# Sat/Sun: wakeup 05:01, morning 06:00-07:56, exam 08:10-08:26
+01 5 * * 0,6 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py wakeup.m3u
+00 6 * * 0,6 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py morning.m3u
+10 8 * * 0,6 /usr/bin/python /home/pi/Music/pimusic/scripts/control.py exam.m3u
+
+# Evening
 30 17 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py
 30 22 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py vaishu.m3u
 
-# Run every 5 minutes from 7:00 AM to 7:25 AM, weekdays (Mon-Fri)
-30,35,40,45,50,55 8 * * * /home/pi/Music/pimusic/scripts/bus_speak.sh
-
-# Run every 2 minutes from 8:56 AM to 8:58 AM, weekdays (Mon-Fri)
-56,58 8 * * * /home/pi/Music/pimusic/scripts/bus_speak.sh
-
-# Run 9:00 AM, 9:02 AM on weekdays (Mon-Fri)
-00,02 9 * * * /home/pi/Music/pimusic/scripts/bus_speak.sh
+# Bus announcements, starting 20 min after exam starts (every 5 min, then 2 min, then 2 min)
+# Tue-Fri 07:00-07:32
+0,5,10,15,20,25,26,28,30,32 7 * * 2-5 /home/pi/Music/pimusic/scripts/bus_speak.sh
+# Mon 10:00-10:32
+0,5,10,15,20,25,26,28,30,32 10 * * 1 /home/pi/Music/pimusic/scripts/bus_speak.sh
+# Sat/Sun 08:30-09:02
+30,35,40,45,50,55 8 * * 0,6 /home/pi/Music/pimusic/scripts/bus_speak.sh
+56,58 8 * * 0,6 /home/pi/Music/pimusic/scripts/bus_speak.sh
+00,02 9 * * 0,6 /home/pi/Music/pimusic/scripts/bus_speak.sh
 
 # Lalitha Sahasranamam from morning 9:30 AM to 5:00 PM
 17 10,13,15 * * * /usr/bin/python /home/pi/Music/pimusic/scripts/control.py lalitha.m3u
